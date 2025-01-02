@@ -68,12 +68,15 @@ def wrap_sentences_in_xml(flagged_sentences):
 
             for unigramm in tokenize_line: #single word tools
                 if unigramm in all_tools and unigramm not in already_added_tools:
+                    if any(unigramm in bigramm.split() for bigramm in already_added_tools): # we dont want to add duplicates in case a unigram is already a part of a bigram
+                        continue
                     tool = ET.SubElement(tools, "Tool")
                     tool.text = unigramm
                     already_added_tools.add(unigramm)
 
+            print(already_added_tools)
             try:
-            # adding issues as child elements, need to try since not all of the lines are problematic
+            # adding issues as child elements, need to use try-except since not all of the lines contain not-approved words
                 for issue in paragraph['issues']:
                     issue_element = ET.SubElement(content, "STE-issue", {
                         "word": issue["word"],
