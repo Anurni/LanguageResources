@@ -1,0 +1,429 @@
+OPERATOR / CREW 
+REMOVAL / REPLACEMENT PROCEDURES 
+
+
+OPERATOR / CREW REPLACEMENT 
+
+The Operator / Crew maintenance is limited to the following tasks: 
++ Battery Replacement 
+
++ Battery Cap Replacement 
+
++ Battery Cap Retaining Strap Replacement 
+
++ Battery Cap O-Ring Replacement 
+
+- Pattern Generators 
+
+* VIS POINT, I/R POINT, and I/R ILLUM Exit Port Covers Replacement 
+
+
+WARNING 
+
+Ensure the Mode Selector Switch is turned to the 0 (OFF) position and lens 
+cover and safety screws are in place before attempting to install, remove, or 
+replace batteries. Failure to comply may lead to laser radiation explosure 
+possibly resulting in permanent eye and/or skin damage. In case of eye and/or 
+skin damage, seek immediate medical attention. 
+
+
+Removal 
+
+1. Unscrew Battery Cap (Figure 1) by turning counter clockwise. 
+
+2. Remove used batteries (Figure 1) and dispose in accordance with local 
+procedures. 
+
+Replace 
+
+NOTE 
+
+Proper battery orientation is clearly marked on the AN/PEQ-15A housing. 
+
+Insert new Battery (Figure 1) and replace and tighten the Battery Cap (Figure 1) 
+
+by turning clockwise. 
+
+
+Figure 1. Battery Replacement 
+
+
+86 
+
+
+87 
+
+
+BATTERY CAP REPLACEMENT 
+
+Removal 
+
+1. Unscrew Battery Cap (Figure 2) by turning counter clockwise. 
+
+2. Pull Battery Cap Retaining Strap (Figure 2) off over the Battery Cap Retaining 
+Stud (Figure 2) located on the Battery Cap (Figure 2). 
+
+Replace 
+
+1. Stretch the end of the Battery Cap Retaining Strap (Figure 2) over the Battery 
+Cap Retaining Stud (Figure 2) located on the Battery Cap (Figure 2). 
+
+2. Replace Battery Cap (Figure 2) by turning clockwise to tighten. 
+
+
+Battery Cap 
+Battery Cap iE Retaining Stud 
+Retaining 
+
+
+Strap 
+
+
+Figure 2. Battery Cap Replacement 
+
+
+BATTERY CAP RETAINING STRAP REPLACEMENT 
+
+NOTE 
+
+Install the Battery Cap Retaining Strap below the Exit Port Cover Retaining 
+
+Strap used on the Visible Point Laser. If necessary, remove the bottom Exit 
+
+Port Cover Strap Stud from the Visible Point Laser Exit Port Cover then install 
+
+the Battery Cap Retaining Strap. 
+
+Removal 
+
+1. Unscrew Battery Cap (Figure 3) by turning counter clockwise. 
+
+2. Pull Battery Cap Retaining Strap (Figure 3) off over the Battery Cap Retaining 
+Stud (Figure 3) on the Battery Cap (Figure 3). 
+
+3. Pull the other side of the Battery Cap Retaining Strap (Figure 3) off over the 
+Exit Port Cover Strap Stud (Figure 3) below the Visible Point Laser (Figure 3). 
+
+
+Visible Point Laser 
+
+
+Battery Cap 
+Retaining Stud 
+Exit Port Cover 
+Strap Stud 
+
+
+Battery Cap 
+Retaining Strap 
+
+
+Battery Cap 
+
+
+Figure 3. Battery Cap Retaining Strap Replacement 
+
+
+89 
+
+
+Replacement 
+
+1. Stretch one end of the Battery Cap Retaining Strap (Figure 3) over the Exit 
+Port Cover Strap Stud (Figure 3) below the Visible Point Laser (Figure 3). 
+
+2. Stretch the other end of the Battery Cap Retaining Strap (Figure 3) over the 
+Battery Cap Retaining Stud (Figure 3) on the Battery Cap (Figure 3). 
+
+3. Replace Battery Cap (Figure 3) and turn clockwise to tighten. 
+
+
+BATTERY CAP O-RING REPLACEMENT 
+
+Removal 
+
+1. Unscrew Battery Cap (Figure 4) by turning counter clockwise. 
+
+2. Use the fingers of one hand to squeeze the Battery Cap O-Ring (Figure 4) 
+while simultaneously pushing it out of the Battery Cap O-Ring Retaining Groove 
+(Figure 4). Grasp the Battery Cap O-Ring (Figure 4) with fingers of the other 
+hand and pull it off the battery compartment threads. 
+
+3. Use a disposable applicator to clean the Battery Cap O-Ring Retaining Groove 
+(Figure 4) of any dirt, grease, or debris. 
+
+
+Battery Cap O-Ring 
+
+
+Battery Cap 
+
+
+Battery Cap O-Ring 
+Retaining Groove 
+
+
+Figure 4. Battery Cap O-Ring Replacement 
+
+
+Replacement 
+
+WARNING 
+
+Do not use chemicals in an enclosed area. Ensure work area is well ventilated. 
+Inhaling chemical vapors may lead to respiratory issues. In case of exposure, 
+seek immediate medical attention. 
+
+1. Stretch the Battery Cap O-Ring (Figure 4) over the battery compartment 
+threads and slip it into the Battery Cap O-Ring Retaining Groove (Figure 4). 
+
+2. Replace the Battery Cap (Figure 4) and turn clockwise to tighten. 
+
+
+90 
+
+
+91 
+
+
+PATTERN GENERATORS REPLACEMENT 
+
+Removal 
+
+Pull out Pattern Generators (Figure 5) from I/R POINT (Figure 5) or focused I/R 
+ILLUM (Figure 5) with fingers to remove pattern generators (Figure 5). 
+
+
+1/R ILLUM 1/R POINT 
+Pattern Generator Pattern Generator 
+
+
+Figure 5. Replacing Pattern Generators 
+
+
+Replacement 
+Insert plug shaped side of the Pattern Generator (Figure 5) into the I/R POINT 
+(Figure 5) or focused I/R ILLUM (Figure 5) and press firmly into place. 
+
+
+VIS POINT, I/R POINT, and I/R ILLUM Exit Port Covers REPLACEMENT 
+Removal 
+
+Pull off VIS POINT, I/R POINT, and 1/R ILLUM Exit Port Covers (Figure 6) from the 
+attachment points (Figure 6). 
+
+
+VIS POINT, I/R POINT, and I/R 
+ILLUM Exit Port Covers 
+
+
+Figure 6. VIS POINT, I/R POINT, and I/R ILLUM Exit Port Covers Replacement 
+
+
+Replacement 
+
+Stretch the open ends of Exit Port Cover Straps (Figure 6) over the attachment 
+points (Figure 6) and over the Laser exit ports so that it fits snug and firmly in 
+place. 
+
+
+92 
+
+
+MAINTAINER 
+
+REMOVAL / REPLACEMENT PROCEDURES 
+
+The Maintainer maintenance is limited to the following tasks: 
+
+* Safety Screw Replacement 
+
+Removal 
+
+Remove Safety Screw (Figure 1) from Lockout Position by using a 3/32 inch hex 
+head wrench and turning counter clockwise. 
+
+
+Figure 1. Safety Screw Replacement 
+
+
+Replacement 
+Install replacement Safety Screw (Figure 1) in the Lockout Position by using a 
+3/32 inch hex head wrench and turning clockwise. 
+
+
+93 
+
+
+CLEANING 
+
+
+WARNING 
+
+Failure to comply with the warnings below could lead to chemical inhalation 
+
+and skin irritation. If exposed, seek immediate medical attention. 
+
+* Isopropyl! alcohol can affect you when inhaled and by passing through your 
+skin. 
+
+- Contact can irritate and burn the skin and eyes. Repeated skin exposure can 
+cause itching, redness, rash, drying, and cracking. 
+
+* Inhaling isopropyl! alcohol can irritate the nose and throat. 
+
++ Overexposure can cause headache, drowsiness, confusion, loss of 
+coordination, unconsciousness, and death. 
+
+- Isopropyl alcohol may affect the liver and kidneys. 
+
+* Isopropyl alcohol is a flammable liquid and a fire hazard. 
+
+
+AN/PEQ-15A HOUSING 
+
+Rinse thoroughly with fresh water or mild soap and water and then dry witha 
+wiping rag. If necessary, clean around switches, adjusters, buttons, and rail 
+grabber bracket using a disposable applicator. 
+
+
+94 
+
+
+LENS CLEANING 
+
+1. Remove Pattern Generator (Figure 1) (if used) or VIS POINT, I/R POINT, and I/R 
+ILLUM Exit Port Covers (Figure 1) IAW WP 0014. 
+
+2. Using a dry lens cleaning tissue, brush off all loose dirt from the lenses 
+(Figure 1). Excessive force may result in scratching the lenses (Figure 1). 
+
+3. Soak a folded lens cleaning tissue with lens cleaning compound and lightly 
+wipe the lens (Figure 1) slowly. Wipe in a circular motion beginning in the center 
+of the lens (Figure 1) and ending at the edge. After one circular stroke, discard 
+the tissue. Repeat this procedure until the lens (Figure 1) surface is clean. 
+
+
+Battery Compartment 
+
+
+Pattern Generator ees 
+© \ 
+
+
+VIS POINT, I/R POINT, and VR 
+ILLUM Exit Port Covers 
+
+
+\ 
+Battery Cap eer i 
+
+
+Figure 1. Lens Cleaning 
+
+
+95 
+
+
+BATTERY CAP / COMPARTMENT AND CONTACTS 
+
+1. Remove Battery IAW WP 0014, Battery Replacement. 
+
+2. Inspect the Battery Compartment (Figure 1) for dirt, dust and corrosion. Dirt 
+or debris that cannot be shaken loose from the Battery Compartment (Figure 
+1) may be removed using a wiping rag or disposable applicator. 
+
+3. Clean the threaded portions of the Battery Cap (Figure 1) and Battery 
+Compartment (Figure 1) using a wiping rag. If necessary, use a disposable 
+applicator dipped in isopropyl alcohol to gently clean the battery contacts 
+on the inside of the Battery Cap (Figure 1). 
+
+4, Reinstall Battery Cap (Figure 1) by turning clockwise to tighten. 
+
+
+96 
+
+
+REMOTE JACK CONTACTS 
+
+1. Remove Remote Cable Switch (Figure 2) or Remote Jack Plug (Figure 2) if 
+installed. 
+
+2. Inspect Remote Jack Plug (Figure 2) contacts for corrosion. 
+
+3. If necessary, use a disposable applicator dipped in isopropyl alcohol to gently 
+clean the contacts.4. If necessary, flush Remote Jack Plug (Figure 2) with 
+water to dislodge caked mud and dirt. . 
+
+5. Reinstall Remote Cable Switch (Figure 2) or Remote Jack Plug if necessary. 
+
+
+Remote Jack Plug 
+
+
+Remote Cable Switch 
+
+
+Figure 2. Remote Jack Contacts 
+
+
+97 
+
+
+PREPARATION FOR STORAGE OR SHIPMENT 
+
+
+S Quick Reference Guide 
+
+
+5 
+aay 
+
+
+Remote Cable Switch ————> 
+
+
+AN/PEQ-15A 
+Assembly 
+
+
+Technical 
+Manual 
+
+
+Pattern Generators 
+
+
+Battery 
+Textile Bag 
+
+
+Figure 1. Preparation for Storage and Shipment 
+
+
+98 
+
+
+99 
+
+
+STORAGE AND SHIPPING 
+
+1. Ensure the AN/PEQ-15A is turned off. 
+
+CAUTION 
+
+When storing or shipping the AN/PEQ-15A ensure battery is removed. Failure to 
+
+comply may result in damage to equipment. 
+
+2. Remove the Batteries (WP 0014, Battery Removal) from the AN/PEQ-15A. 
+
+3. Close the Battery Cover (WP 0014, Battery Removal). 
+
+4. Clean the AN/PEQ-15A IAW (WP 0016) before storage or shipment to ensure 
+that the AN/PEQ-15A is free of all contaminants such as dirt or any other 
+foreign material. 
+
+5. Refer to Figure | for placement of the AN/PEQ-15A and COEI into the Textile 
+Bag. 

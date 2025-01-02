@@ -1,0 +1,1117 @@
+MAINTENANCE 
+
+
+FUEL LINES
+
+
+ 
+Replace any parts which show deterioration, dam- 
+age or leakage. 
+
+ 
+
+
+FUEL STRAINER 
+
+
+Turn the fuel valve OFF. 
+
+
+Remove the fuel cup, O-ring and strainer, draining 
+the gasoline into a suitable container, 
+
+
+W WARNING 
+
+
+Gasoline is flammable and is explosive under 
+certain conditions. Do not smoke or allow 
+flames or sparks near the equipment while 
+draining fuel. | 
+
+
+| 
+
+
+Wash the cup and strainer in clean nonflammable or 
+high flash point solvent. 
+
+
+Reinstall the screen, aligning the index marks 
+on the fuel valve body and strainer. Install a new 
+O-ring into the fuel’ valve body. Reinstall 
+the fuel cup, making sure the new O-ring is in place, 
+Hand tighten the fuel cup and torque to specifica- 
+tion. ; 
+
+
+TORQUE: 3-5 N-m (0.3—0.5 kg-m, 2—4 ft-lb) 
+
+
+After installing the strainer and refilling the tank, 
+turn the fuel valve'ON and check that there are no 
+leaks. 
+
+
+
+Date of Issue: Oct., 1983 
+© HONDA MOTOR(CO., LTD. 
+
+
+MAINTENANCE 
+
+
+FUEL LINE DIAPHRAGM 
+REMOVAL 
+
+
+Turn the fuel valve OFF. 
+
+
+Remove the seat. 
+
+
+Disconnect the fuel line, vacuum line and air vent 
+tube. 
+
+
+Remove the fuel tank. 
+
+
+INSPECTION 
+
+
+Place a suitable drainage container under the fuel 
+line. 
+
+
+Turn the fuel valve to ON. If fuel comes out of the 
+fuel line, replace the fuel line diaphragm. 
+
+
+Connect a vacuum gauge to the diaphragm vacuum 
+outlet. Fuel should flow from the fuel line when 
+12—20 mm Hg (0.48—0.8 in Hg) of vacuum is 
+applied. If flow is restricted, replace the fuel line 
+diaphragm. 
+
+
+INSTALLATION 
+
+
+Installation of the fuel line diaphragm is the reverse 
+order of removal. 
+
+
+NOTE 
+
+
+Be sure all fuel line, vacuum line and air vent 
+tube connections are tight and not leaking. 
+THROTTLE OPERATION 
+
+
+Check for smooth throttle grip full opening and 
+automatic full closing in all steering positions. 
+
+
+Lubricate the cables, if throttle operation is not 
+smooth. . 
+
+
+Make sure that the throttle cables are not de- 
+teriorated, damaged, or kinked. 
+Replace any damaged parts. 
+
+
+Make sure throttle grip free play is 2-6 mm (1/8— 
+1/4 in) at the throttle grip flange. 
+
+
+‘83 MODEL 
+—_— PS 
+
+
+€ EONDA 
+CB650SC 
+
+
+& | q 
+VACUUM GAUGE 
+A973X—041—XXXX 
+or ST—AH—260—MC7 
+2-6 mm 
+(1/8—1/4 in) 
+‘84 MODEL 
+
+
+VACUUM LINE 
+
+
+3-6 
+
+
+Date of Issue: Oct., 1983 
+©HONNA MATAR CON 1th 
+
+
+HONDA 
+
+
+Minor adjustments are performed at the upper 
+adjuster. Adjust \free play by loosening the lock nut 
+and turning the adjuster. Tighten the lock nut. 
+
+
+MAINTENANCE 
+
+
+UPPER ADJUSTER 
+
+
+Recheck throttle operation. 
+7 ~._ Replace any damaged parts. 
+
+
+LOCK NUT 
+
+
+Major adjustments are made at the lower adjuster 
+
+
+LOWER ADJUSTER 
+on the carburetor. iii | 
+
+
+To adjust, remove the fuel tank, loosen the grip 
+play adjuster lock nut and turn the adjuster. 
+
+
+Tighten the lock nut. 
+
+
+LOCK NUT 
+
+
+~ CARBURETOR CHOKE OPEN 
+
+
+Check for smooth upper choke lever operation. 
+Lubricate the choke cable, if the operation is not 
+smooth. 
+
+
+CLOSED CHOKE LEVER 
+
+
+CLOSED CHOKE LEVER 
+
+
+Date of Issue: Oct.,/1983 -7 
+© HONDA MOTOR CO., LTD. 3 
+
+
+MAINTENANCE 
+
+
+Remove the seat and fuel tank. 
+
+Push the choke lever on the handlebar all the way 
+forward to fully open position and measure the 
+choke valve stroke at the No. 3 carburetor between 
+the fully closed and fully open positions. 
+
+
+CHOKE VALVE STROKE: 5—7 mm (3/16—1/4 in) 
+Adjust if necessary by loosening the choke cable 
+clamp on the carburetor and moving the cable 
+casing. 
+
+
+Recheck the choke valve stroke. 
+
+
+Install the fuel tank and seat. 
+
+
+AIR CLEANER 
+
+
+Remove the frame right side cover. 
+
+
+Remove the three air cleaner cover screws and 
+cover. 
+
+
+Pull the air cleaner element set spring out and re- 
+
+
+move the element. 
+
+
+@)tecsosc. 
+CB650SC 
+
+
+CHOKE CABLE 
+
+
+SET SPRING 
+
+
+5—7 mm 
+(3/16—1/4 in) 
+
+
+La, 
+
+
+Date of Issue: Oct., 1983 
+© HONDA MOTOR CO.. LTD- 
+
+
+€ EHONDA 
+CB650SC 
+
+
+Clean the element by tapping it lightly to loosen 
+dust. Blow away the remaining dust by applying 
+compressed air from outside the element. 
+
+
+MAINTENANCE 
+
+
+Replace the element if it is excessively dirty, broken 
+or damaged. 
+
+
+Reinstall the element, element set spring, air cleaner 
+cover and frame pt side cover. 
+
+
+CRANKCASE BREATHER 
+
+
+Remove the plug from the drain tube to empty 
+any deposits. 
+
+
+Install the drain plug. 
+
+
+NOTE 
+
+
+Service more frequently when riding in rain 
+or at full throttle, or if the deposit level can 
+be seen in the transparent section of the 
+drain tube. 
+
+
+SPARK PLUGS 
+
+
+Tc 
+DPR8EA-9 | X24EPR-U9 
+
+
+(Below 5° 41°F), | DPR7EAS | X22EPR-UQ 
+
+
+Clean any dirt from around the spark plug bases. 
+Disconnect the spark plug caps. 66-06 mrs 
+
+
+0.031—0.035 in) CENTER 
+Remove and discard tthe spark plugs. ( ELECTRODE 
+
+
+DRAIN PLUG 
+
+
+SIDE ELECTRODE 
+
+
+Measure the new spark plug gaps using a wire-type 
+feeler gauge. 
+
+
+SPARK PLUG GAP: 0.8—0.9 mm (0.031—0.035 in) 
+
+
+Adjust by bending the side electrode carefully. 
+
+
+With the plug washers attached, thread the spark 
+plugs in by hand to prevent crossthreading. ; 
+
+Tighten the spark |plugs another 1/2 turn with 
+a spark plug wrench to compress the plug washers. 
+
+
+Connect the spark plug caps. 
+ae ee ree ee ———E—E—Eee———e 
+Date of Issue:,Oct., 1983 2-a 
+© HONDA MOTOR CO., LTD. 
+
+
+€ EONDA 
+CB650SC 
+
+
+MAINTENANCE 
+CARBURETOR SYNCHRONIZATION ~~) 
+NOTE 
+Synchronize the carburetors with the engine 
+at normal operating temperature, trans- 
+mission in neutral and motorcycle on the —~ 
+center stand. 
+Remove the both frame side covers, seat and fuel 
+tank, 
+Turn the fuel valve OFF and remove the fuel and \ 
+vacuum lines. 
+Remove the fuel tank. 
+Prepare a longer fuel line and reconnect it between 
+the fuel tank and carburetor. 
+Position the fuel tank higher than normal. 
+Remove the plugs from the cylinder head intake 
+ports and install the vacuum gauge adaptors. 
+Connect the vacuum gauges. = 
+\ 
+
+
+Plug the vacuum tube end with a suitable stopper. 
+Start the engine and adjust the idle speed. 
+IDLE SPEED: 1,100 + 100 rpm 
+
+
+Check that the difference in vacuum readings is 
+50 mmHg (2.0 inHg) or less. 
+
+
+ADJUSTMENT 
+
+
+NOTE 
+
+
+The No. 2 carburetor cannot be adjusted: it 
+is the base. 
+
+
+Adjust within specifications by turning the adjusting 
+screws. 
+
+
+Recheck the idle speed and synchronization. 
+
+
+Install the fuel tank, seat and side covers. 
+
+
+3-10 
+
+
+VACUUM GAUGE 07404—0020000 or 
+M937B—021—XXXXxX (U.S.A. ONLY) 
+
+
+Date of Issue: Oct., 1983 
+© HONDA MOTOR CO ITN 
+
+
+HONDA 
+CB650SC 
+
+
+MAINTENANCE 
+
+
+IDLE SPEED ADJUSTMENT 
+
+
+NOTE 
+
+
+Inspect and adjust idle speed after all other 
+engine adjustments are within specifica- 
+
+
+tions. | 
+
+The engine must be warm for accurate 
+idle adjustment. Ten minutes of stop- 
+and-go driving is sufficient. 
+
+
+Warm up the jengine, shift to NEUTRAL, and 
+place the motorcycle on its center stand. 
+
+Turn the throttle stop screw as required to obtain 
+the specified idle speed. 
+
+
+IDLE SPEED: 1/100 + 100 rpm 
+
+
+"84: EVAPORATIVE EMISSION 
+CONTROL SYSTEM 
+(California model only) 
+
+
+Check the fuel tank breather tube between the tank 
+cap and canister and the vacuum tube between the 
+canister and purge control valve for deterioration, 
+damage or loose joints or connections. Also check 
+the tubes for clogging due to bending or twisting. 
+
+
+Check the fuel tank sealing rubber for deterioration. 
+
+
+| 
+
+
+Check the canister for cracks or damage. Check the 
+protector for evidence of damage or other faults. 
+
+
+Date of Issue: Oct., 1983 
+© HONDA MOTOR CO.. LTD. 
+
+
+ee 
+
+
+BER 
+
+
+MAINTENANCE 
+
+
+IGNITION TIMING 
+© DYNAMIC 
+
+
+Remove the pulse generator cover. 
+
+
+Connect a stroboscopic timing light to the No. 1 or 
+No. 4 cylinder’s spark plug wire. 
+
+
+Start the engine and let it idle. 
+IDLE SPEED: 1,100 + 100 rpm 
+
+
+Aim the timing light at the timing mark. The “F” 
+mark should align with the index mark. 
+
+
+COMPRESSION TEST 
+
+
+Warm up the engine. Stop the engine and remove 
+all spark plugs. 
+
+
+Insert the compression gauge. 
+
+
+Open the throttle valves all the way and crank the 
+engine with the starter motor. 
+
+
+NOTE 
+Crank the engine until the gauge reading 
+
+
+stops rising. The maximum reading is usually 
+reached within 4—7 seconds. 
+
+
+COMPRESSION PRESSURE: 
+1,176.8 + 98.1 kPa 
+(12 + 1 kg/cm”, 170 + 14 psi) 
+
+
+If compression is low, check the following: 
+— Leaky valves 
+
+— Hydraulic valve adjusters 
+
+— Leaking cylinder head gasket 
+
+— Worn piston/ring/cylinder 
+
+
+High compression indicates that carbon deposits 
+have accumulated on the combustion chamber or 
+the piston crown. 
+
+
+3-12 
+
+
+INDEX 
+MARK 
+
+
+€ HONDA. 
+CB650SC 
+
+
+TIMING LIGHT 
+
+
+COMPRESSION GAUGE 
+
+
+Date of Issue: Oct., 1983 
+
+
+PUIALAIR A AaATA RR Ae 
+
+
+€ HONDA. 
+(©) "esesose 
+BATTERY 
+
+
+Remove the frame right side cover and inspect the 
+battery fluid level. When the fluid level nears the 
+lower level line, remove the battery as follows: 
+
+
+UPPER LEVEL 
+
+
+Remove the battery holder plate bolt and dis- 
+
+
+connect the secondary ground cable open the 
+battery plate. 
+
+
+Disconnect the negative cable at the battery termi- 
+nal, then remove the positive cable. 
+
+
+Pull the battery out, remove the filler caps and 
+add distilled water to the upper level line. 
+
+
+Reinstall the filler caps and reinstall the battery. 
+
+
+NOTE 
+
+
+Add only distilled water. Tap water will 
+shorten the service life of the battery. 
+
+
+W WARNING 
+
+
+The battery | electrolyte contains sulfuric 
+acid, Protect your eyes, skin and clothing. 
+
+
+If electrolyte gets in your eyes; flush them 
+throughly with water and get prompt medical 
+attention. 
+
+
+Replace the battery, if sulfation forms or sedimants 
+accumulate on the bottom. 
+
+
+BRAKE FLUID 
+
+
+Check the front brake fluid reservoir level. 
+If the level nears the lower level mark, remove 
+
+
+the cover and diaphragm. 
+Fill the reservoir) with DOT—3 or DOT—4 to the 
+upper level mark on the inside of the reservoir. 
+
+
+Check the entire) system for leaks, if the level is 
+low. 
+
+
+Date of Issue: Oct., 1983 
+© HONDA MOTOR CO., LTD. 
+
+
+MAINTENANCE 
+
+
+UPPER LEVEL 
+
+
+3-13 
+
+
+MAINTENANCE 
+
+
+HON DA. 
+©) "cBe5s0sc 
+
+
+CAUTION 
+
+
+Do not remove the cover until the handle- 
+bar has been turned so that the reservoir is 
+level, 
+
+Avoid operating the brake lever with the 
+
+
+cap removed. Brake fluid will squirt out 
+if the lever is pulled. 
+
+Do not mix different types of fluid, they 
+are not compatible with each other. 
+
+
+BRAKE SHOE/PAD WEAR 
+
+
+BRAKE PAD WEAR 
+Check the brake pads for wear by looking through 
+
+
+the slot indicated by the arrow cast on the caliper 
+assembly. 
+
+Replace the brake pads if the wear line on the pads 
+reaches the edge of the brake disc (page 16-5). 
+
+
+CAUTION 
+Always replace the brake pads in pairs to 
+assure even disc pressure. 
+
+
+Refer to section 16 for brake bleeding procedures. 
+
+
+BRAKE SHOE INSPECTION 
+Replace the brake shoes if the arrow on the brake 
+
+
+arm aligns with the reference mark “4” on full 
+application of the rear brake pedal. 
+
+
+BRAKE SYSTEM 
+
+
+Inspect the brake hoses and fittings for deteriora- 
+tion, cracks and signs of leakage. Tighten any loose 
+fittings. 
+
+
+Replace hoses and fittings as required. 
+
+
+UPPER LEVEL 
+
+
+i" “ 
+
+
+ARROW 
+
+
+r ] 
+} 
+
+
+“A MARK 
+
+
+3-14 
+
+
+Date of Issue: Oct., 1983 
+© HONDA MOTOR CO.. LTD. 
+
+
+HONDA 
+CB650SC 
+
+
+BRAKE PEDAL HEIGHT 
+
+
+MAINTENANCE 
+
+
+STOPPER BOLT 
+
+
+Adjust brake pedal height so the pedal is 7 mm 
+(1/4 in) below the top of the foot peg. 
+
+
+CAUTION 
+
+
+Incorrect brake pedal height can cause brake 
+drag. 
+
+
+To Adjust: 
+
+
+Loosen the stopper bolt lock nut and turn the 
+stopper bolt. 
+
+
+Retighten the lock nut. 
+
+
+NOTE | 
+
+After adjusting the brake ‘pedal height, check 
+the rear brake light switch and brake pedal 
+free play and adjust if necessary. 
+
+
+LOCK NUT 
+
+
+BRAKE PEDAL FREE PLAY 
+
+
+NOTE | 
+
+
+Perform brake pedal free play adjustment 
+after adjusting brake pedal height. 
+Check the brake i free play. 
+FREE PLAY: 20-30 mm (3/4—1-1/4 in) 
+| 
+
+
+If adjustment is necessary, turn the rear brake ad- 
+
+
+justing nut, 
+
+
+BRAKE LIGHT SWITCH 
+
+
+NOTE 
+Perform brake light switch adjustment after 
+adjusting the brake pedal play and height. 
+
+
+Adjust the brake light switch so that the brake 
+light will come on when the brake pedal is depressed 
+20 mm (3/4 in), and brake engagement begins. 
+
+
+Adjust by holding the switch body and turning 
+the adjusting nut. Do not turn the switch body. 
+
+
+NOTE 
+
+
+The front brake light switch does not require 
+adjustment. 
+
+
+Date of Issue: Oct., 198 3- 1 a 
+
+
+© HONDA MOTOR(CO., LTD. 
+
+
+HONDA 
+“MAINTENANCE CB650SC 
+
+
+HEADLIGHT AIM 
+
+
+Adjust vertically by loosening both headlight case 
+mounting bolts. 
+
+
+NOTE 
+Adjust the headlight beam as specified by 
+local laws and regulations. 
+
+
+W WARNING 
+An improperly adjusted headlight may blind 
+oncoming drivers, or it may fail to light the 
+road for a safe distance. 
+
+
+MOUNTING BOLT 
+
+
+CLUTCH 
+
+
+Check the clutch fluid reservoir level. 
+
+
+If the level nears the lower level mark, fill the 
+reservoir with DOT-3 or DOT-4 to the upper level 
+mark. 
+
+
+Check the entire system for leaks, if the level is low. 
+
+
+CAUTION 
+
+
+* Do not remove the cover until the hand- 
+lebar has been turned so that the reservoir 
+is level, 
+
+* Avoid operating the clutch lever with the 
+cap removed, Fluid will squirt out if the 
+lever is pulled. 
+
+* Do not mix different types of fluid, as 
+
+they are not compatible. 
+
+
+UPPER LEVEL MARK 
+
+
+SIDE STAND © 
+
+
+Check the rubber pad for deterioration or wear, NO Goop 
+Replace if any wear extends to wear line as shown. 
+
+
+Check the side stand spring for damage and loss of 
+tension, and the side stand assembly for freedom of 
+movement. Make sure the side stand is not bent. 
+
+
+Date of Issue: Oct., 1983 
+3- 1 6 © HONDA MOTOR CO.. LTD. 
+
+
+os, 
+
+
+«4 HONDA 
+CB650SC 
+
+
+NOTE 
+
+
+When replacing, use a rubber pad with the 
+mark ‘Over 260 Ibs ONLY”, 
+
+* Spring tension is correct if the measure- 
+ments fall within 2-3 kg (4.4-6.6 Ib), 
+when pulling the side stand lower end with 
+a spring scale. 
+
+
+SUSPENSION 
+
+
+Do not ride a vehicle with faulty suspen- 
+sion. Loose, worn or damaged suspension 
+Parts impair vehicle stability and control. 
+
+
+FRONT 
+
+
+Check the action of the front forks by compressing 
+them several times. 
+
+
+Check the entire! fork assembly for leaks or damage. 
+Replace damaged components which cannot be 
+repaired. 
+
+
+Tighten all nuts and bolts. 
+
+
+Check the front fork air pressure when the: forks 
+are cold. 
+
+
+Place the vehicle on its center stand. 
+
+
+Remove each air valve cap and measure the air 
+pressure. 
+
+
+AIR PRESSURE: 0—40 kPa 
+(0—0.4 kg/cm”, 0-6 psi) 
+
+
+Date of Issue: Oct., 1983 
+© HONDA MOTOR CO., LTD. 
+
+
+M 
+
+
+AINTENANC 
+
+
+3-17 
+
+
+E 
+
+
+HONDA 
+MAINTENANCE CB650SC 
+
+
+ANTI-DIVE SYSTEM INSPECTION 
+
+
+Check the operation of the anti-dive system in all 
+positions by riding the motorcycle and firmly ap- 
+plying the brakes. 
+
+
+Position Anti-dive damper force 
+
+
+LIGHT ANTI-DIVE 
+MEDIUM 
+HARD 
+MAXIMUM ANTI-DIVE 
+
+
+Inspect and if necessary, repair the system (Refer 
+to section 14). 
+
+
+REAR 
+
+Place the motorcycle on its center stand. 
+
+Move the rear wheel sideways with force to see 
+if the swingarm bearings are worn. Replace if ex- 
+
+
+cessively worn. 
+
+
+Check the shock absorber for leaks or damage. 
+Tighten all rear suspension nuts and bolts. 
+
+
+NUTS, BOLTS, FASTENERS 
+
+
+( \ 
+Check that all chassis nuts and bolts are tightened 
+to correct torque values (page 1-4). 
+Check that all cotter pins, safety clips, hose clamps 
+and cable stays are in place. 
+d 
+
+
+i 
+
+
+Date of Issue: Oct., 1983 
+3-18 © HONDA MOTOR CO., LTD. 
+
+
+€ HONDA 
+©) CB650SC 
+WHEELS 
+
+
+TIRE PRESSURE 
+NOTE 
+
+
+Tire pressure should be checked when tires 
+are COLD. 
+
+
+Check the tires for cuts, imbedded nails, or other 
+sharp objects. 
+
+
+MAINTENANCE 
+
+
+Recommended tire pressures and tire sizes: 
+
+
+100/90-19 57H | 130/90-16 67H 
+
+
+280 
+(2.8, 40) 
+
+
+Check the front and rear wheels for trueness (Refer 
+to section 14, 15), 
+
+
+L303 
+
+
+Measure the tread depth at the center of the tires, 
+Replace the tires if the tread depth reaches the 
+following limit: 
+Minimum tread depth: 
+
+Front: 1.5 mm (1/16 in) 
+
+Rear: 2.0 mm (3/32 in) 
+
+
+STEERING HEAD BEARINGS 
+
+
+NOTE 
+Check that the control cables do not interfere 
+with handlebar rotation. 
+Raise the front wheel off the ground. 
+
+
+Check that the handlebar moves freely from side 
+to side. If the handlebar moves unevenly, binds, or 
+has vertical movement, adjust the steering head 
+bearing by turning the steering head adjusting 
+nut with a pin spanner. 
+
+
+Date of Issue: Oct., 1983 3- 1 Sg 
+
+
+© HONDA MOTOR CO., LTD. 
+
+
+HONDA 
+CB650SC 

@@ -1,0 +1,137 @@
+Chapter 4 
+
+
+MAINTENANCE 
+AND TROUBLESHOOTING 
+
+
+
+Subjects covered in Chapter 4 include — 
+
+• Cleaning the printer 
+
+• Replacing the ribbon 
+
+• Replacing the print head 
+
+• Troubleshooting 
+
+Dust and heat will make any mechanism wear more quickly. The best 
+maintenance is preventive, and the first step is correct location of the printer. 
+This is covered in greater detail in Chapter 1, but in general an environment 
+comfortable for humans is best for both the computer and the printer. 
+
+
+CLEANING THE PRINTER 
+
+Cleaning the printer regularly will prolong its service life. Use a damp 
+cloth on the exterior every week or so. For stubborn dirt, you may moisten 
+the cloth with alcohol or water containing a mild detergent, but be careful 
+not to spill any liquid into the interior of the printer. 
+
+Use a soft brush to remove paper dust and lint from the interior. A small 
+vacuum cleaner can also make this task easier, but be very careful not to 
+bend or injure any electronic parts or wiring. The printer contains delicate 
+electronic parts, so only clean those places where you have easy access. 
+
+
+REPLACING THE RIBBON 
+
+
+The printer uses an endless-type colour ribbon cartridge in which the 
+ribbon is recycled automatically. When the print becomes faint, it is time 
+to replace the ribbon cartridge. 
+
+
+To remove the old cartridge, take off the top cover and press the ribbon 
+release catch toward you with your index finger. Once the ribbon is free 
+of the print head, the cartridge lifts out easily. To fit the new cartridge, guide 
+the ribbon between the print head and the metal platen guard, then set the 
+cartridge in place on the carriage and press down lightly. The release catch 
+will lock automatically. See Figure 4-1. 
+
+
+
+Ribbon cartridge 
+
+
+
+Figure 4-1. Replacing the ribbon cartridge 
+
+
+REPLACING THE PRINT HEAD 
+
+The dot matrix print head has a life of about 200 million dots, or years 
+of normal use. When printing is too light even after replacing the ribbon, 
+you’ll know that the print head has reached the end of its service life. To 
+replace the print head, follow the procedure below. 
+
+As you remove the old print head, note carefully how the cable is 
+threaded, so that you can thread the new cable in the same way. 
+
+Caution: When replacing the print head, be careful not to touch the brass 
+
+gear on the carriage. 
+
+Warning: The print head becomes hot during operation. If you have been 
+
+using the printer, wait awhile so that the print head can cool 
+
+off. 
+
+1. Turn power OFF and unplug the power cord. 
+
+2. Remove the top cover and ribbon cartridge. 
+
+3. Move the print head carriage toward the right until you can see the 
+connector cover. Remove the connector covei and pull the cable tree 
+
+from the connector. 
+
+4. Remove the gear cover by pushing the fulcrums on both sides. At this 
+time, take care not to lose the spring. 
+
+5. Unscrew the two screws that hold the print head in place and set them 
+aside. 
+
+
+
+
+6 . 
+
+
+Disengage the cable from the tabs holding it down, then remove the 
+print head. 
+
+
+7. 
+
+
+I-- **^" x ** 
+
+bor easy installation of the new print head, move the carriage toward 
+the left end of the rail. 
+
+
+-- AUUi 
+
+8. Place the new print head on its support, seating it on the two pins. 
+
+9. Thread the new cable the same way as the old, securing it under the 
+tabs on the print head carriage. 
+
+
+
+Figure 4-2. Replacing the print head 
+
+10. Plug the cable into the connector, inserting it as far as it will go. 
+
+11. Fasten the print head down with the two screws. 
+
+12. Replace the spring and the gear cover in place. 
+
+13. Move the carriage back toward the right and replace the connector cover. 
+Slide the connector cover to the left until it locks into place. 
+
+14. Replace the ribbon cartridge and top cover, and plug the power cord 
+back in. 
