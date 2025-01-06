@@ -1,0 +1,286 @@
+<?xml version="1.0" ?>
+<Manual_maintenance>
+  <Instruction>
+    Chapter 4
+    <Tools/>
+  </Instruction>
+  <Paragraph topic="MAINTENANCE AND TROUBLESHOOTING"/>
+  <Instruction>
+    Subjects covered in Chapter 4 include —
+    <Tools/>
+  </Instruction>
+  <Instruction>
+    • Cleaning the printer
+    <Tools/>
+  </Instruction>
+  <Instruction>
+    • Replacing the ribbon
+    <Tools/>
+  </Instruction>
+  <Instruction>
+    • Replacing the print head
+    <Tools/>
+  </Instruction>
+  <Instruction>
+    • Troubleshooting
+    <Tools/>
+  </Instruction>
+  <Instruction>
+    Dust and heat will make any mechanism wear more quickly. The best maintenance is preventive, and the first step is correct location of the printer. This is covered in greater detail in Chapter 1, but in general an environment comfortable for humans is best for both the computer and the printer.
+    <Tools/>
+  </Instruction>
+  <Paragraph topic="CLEANING THE PRINTER"/>
+  <Instruction>
+    Cleaning the printer regularly will prolong its service life. Use a damp cloth on the exterior every week or so. For stubborn dirt, you may moisten the cloth with alcohol or water containing a mild detergent, but be careful not to spill any liquid into the interior of the printer.
+    <Tools/>
+    <STE-issue word="damp" POS="adj">
+      <Suggestion>moist (adj)</Suggestion>
+    </STE-issue>
+    <STE-issue word="may" POS="v">
+      <Suggestion>can (v)</Suggestion>
+    </STE-issue>
+    <STE-issue word="mild" POS="adj">
+      <Suggestion>weak (adj)</Suggestion>
+    </STE-issue>
+  </Instruction>
+  <Instruction>
+    Use a soft brush to remove paper dust and lint from the interior. A small vacuum cleaner can also make this task easier, but be very careful not to bend or injure any electronic parts or wiring. The printer contains delicate electronic parts, so only clean those places where you have easy access.
+    <Tools/>
+  </Instruction>
+  <Paragraph topic="REPLACING THE RIBBON"/>
+  <Instruction>
+    The printer uses an endless-type colour ribbon cartridge in which the ribbon is recycled automatically. When the print becomes faint, it is time to replace the ribbon cartridge.
+    <Tools/>
+    <STE-issue word="faint" POS="adj">
+      <Suggestion>dim (adj)</Suggestion>
+    </STE-issue>
+  </Instruction>
+  <Instruction>
+    To remove the old cartridge, take off the top cover and press the ribbon release catch toward you with your index finger. Once the ribbon is free of the print head, the cartridge lifts out easily. To fit the new cartridge, guide the ribbon between the print head and the metal platen guard, then set the cartridge in place on the carriage and press down lightly. The release catch will lock automatically. See Figure 4-1.
+    <Tools/>
+    <STE-issue word="old" POS="adj">
+      <Suggestion>remaining (adj)</Suggestion>
+    </STE-issue>
+    <STE-issue word="take" POS="v">
+      <Suggestion>remove (v)</Suggestion>
+    </STE-issue>
+    <STE-issue word="press" POS="v">
+      <Suggestion>push (v)</Suggestion>
+    </STE-issue>
+    <STE-issue word="press" POS="v">
+      <Suggestion>push (v)</Suggestion>
+    </STE-issue>
+    <STE-issue word="toward" POS="prep">
+      <Suggestion>to (prep)</Suggestion>
+    </STE-issue>
+    <STE-issue word="fit" POS="v">
+      <Suggestion>install (v)</Suggestion>
+    </STE-issue>
+    <STE-issue word="guide" POS="v">
+      <Suggestion>put (v)</Suggestion>
+    </STE-issue>
+    <STE-issue word="press" POS="v">
+      <Suggestion>push (v)</Suggestion>
+    </STE-issue>
+    <STE-issue word="press" POS="v">
+      <Suggestion>push (v)</Suggestion>
+    </STE-issue>
+    <STE-issue word="lock" POS="v">
+      <Suggestion>lock (v)</Suggestion>
+    </STE-issue>
+  </Instruction>
+  <Instruction>
+    Ribbon cartridge
+    <Tools/>
+  </Instruction>
+  <Instruction>
+    Figure 4-1. Replacing the ribbon cartridge
+    <Tools/>
+  </Instruction>
+  <Paragraph topic="REPLACING THE PRINT HEAD"/>
+  <Instruction>
+    The dot matrix print head has a life of about 200 million dots, or years of normal use. When printing is too light even after replacing the ribbon, you’ll know that the print head has reached the end of its service life. To replace the print head, follow the procedure below.
+    <Tools/>
+    <STE-issue word="normal" POS="adj">
+      <Suggestion>usual (adj)</Suggestion>
+    </STE-issue>
+    <STE-issue word="use" POS="n">
+      <Suggestion>operation (n)</Suggestion>
+    </STE-issue>
+  </Instruction>
+  <Instruction>
+    As you remove the old print head, note carefully how the cable is threaded, so that you can thread the new cable in the same way.
+    <Tools/>
+    <STE-issue word="as" POS="conj">
+      <Suggestion>because (conj)</Suggestion>
+    </STE-issue>
+    <STE-issue word="old" POS="adj">
+      <Suggestion>remaining (adj)</Suggestion>
+    </STE-issue>
+    <STE-issue word="note" POS="v">
+      <Suggestion>record (v)</Suggestion>
+    </STE-issue>
+    <STE-issue word="thread" POS="v">
+      <Suggestion>put (v)</Suggestion>
+    </STE-issue>
+    <STE-issue word="way" POS="n">
+      <Suggestion>procedure (n)</Suggestion>
+    </STE-issue>
+  </Instruction>
+  <Warning>
+    Caution: When replacing the print head, be careful not to touch the brass
+    <Tools/>
+  </Warning>
+  <Instruction>
+    gear on the carriage.
+    <Tools/>
+  </Instruction>
+  <Warning>
+    Warning: The print head becomes hot during operation. If you have been
+    <Tools/>
+  </Warning>
+  <Instruction>
+    using the printer, wait awhile so that the print head can cool
+    <Tools/>
+    <STE-issue word="using" POS="v">
+      <Suggestion> use (v)</Suggestion>
+    </STE-issue>
+    <STE-issue word="cool" POS="v">
+      <Suggestion>decrease (v)</Suggestion>
+    </STE-issue>
+  </Instruction>
+  <Instruction>
+    off.
+    <Tools/>
+  </Instruction>
+  <Instruction>
+    1. Turn power OFF and unplug the power cord.
+    <Tools/>
+    <STE-issue word="unplug" POS="v">
+      <Suggestion>disconnect (v)</Suggestion>
+    </STE-issue>
+  </Instruction>
+  <Instruction>
+    2. Remove the top cover and ribbon cartridge.
+    <Tools/>
+  </Instruction>
+  <Instruction>
+    3. Move the print head carriage toward the right until you can see the connector cover. Remove the connector covei and pull the cable tree
+    <Tools/>
+    <STE-issue word="toward" POS="prep">
+      <Suggestion>to (prep)</Suggestion>
+    </STE-issue>
+  </Instruction>
+  <Instruction>
+    from the connector.
+    <Tools/>
+  </Instruction>
+  <Instruction>
+    4. Remove the gear cover by pushing the fulcrums on both sides. At this time, take care not to lose the spring.
+    <Tools/>
+    <STE-issue word="take" POS="v">
+      <Suggestion>remove (v)</Suggestion>
+    </STE-issue>
+    <STE-issue word="lose" POS="v">
+      <Suggestion>decrease (v)</Suggestion>
+    </STE-issue>
+  </Instruction>
+  <Instruction>
+    5. Unscrew the two screws that hold the print head in place and set them aside.
+    <Tools/>
+  </Instruction>
+  <Instruction>
+    6 .
+    <Tools/>
+  </Instruction>
+  <Instruction>
+    Disengage the cable from the tabs holding it down, then remove the print head.
+    <Tools/>
+  </Instruction>
+  <Instruction>
+    I-- **^&quot; x **
+    <Tools/>
+  </Instruction>
+  <Instruction>
+    bor easy installation of the new print head, move the carriage toward the left end of the rail.
+    <Tools/>
+    <STE-issue word="toward" POS="prep">
+      <Suggestion>to (prep)</Suggestion>
+    </STE-issue>
+  </Instruction>
+  <Instruction>
+    -- AUUi
+    <Tools/>
+  </Instruction>
+  <Instruction>
+    8. Place the new print head on its support, seating it on the two pins.
+    <Tools/>
+    <STE-issue word="place" POS="v">
+      <Suggestion>put (v)</Suggestion>
+    </STE-issue>
+  </Instruction>
+  <Instruction>
+    9. Thread the new cable the same way as the old, securing it under the tabs on the print head carriage.
+    <Tools/>
+    <STE-issue word="thread" POS="v">
+      <Suggestion>put (v)</Suggestion>
+    </STE-issue>
+    <STE-issue word="way" POS="n">
+      <Suggestion>procedure (n)</Suggestion>
+    </STE-issue>
+    <STE-issue word="old" POS="adj">
+      <Suggestion>remaining (adj)</Suggestion>
+    </STE-issue>
+    <STE-issue word="under" POS="prep">
+      <Suggestion>below (prep)</Suggestion>
+    </STE-issue>
+  </Instruction>
+  <Instruction>
+    Figure 4-2. Replacing the print head
+    <Tools/>
+  </Instruction>
+  <Instruction>
+    10. Plug the cable into the connector, inserting it as far as it will go.
+    <Tools/>
+    <STE-issue word="plug" POS="v">
+      <Suggestion>connect (v)</Suggestion>
+    </STE-issue>
+    <STE-issue word="as" POS="conj">
+      <Suggestion>because (conj)</Suggestion>
+    </STE-issue>
+    <STE-issue word="as" POS="conj">
+      <Suggestion>because (conj)</Suggestion>
+    </STE-issue>
+  </Instruction>
+  <Instruction>
+    11. Fasten the print head down with the two screws.
+    <Tools/>
+    <STE-issue word="fasten" POS="v">
+      <Suggestion>attach (v)</Suggestion>
+    </STE-issue>
+    <STE-issue word="head" POS="v">
+      <Suggestion>point (v)</Suggestion>
+    </STE-issue>
+  </Instruction>
+  <Instruction>
+    12. Replace the spring and the gear cover in place.
+    <Tools/>
+  </Instruction>
+  <Instruction>
+    13. Move the carriage back toward the right and replace the connector cover. Slide the connector cover to the left until it locks into place.
+    <Tools/>
+    <STE-issue word="toward" POS="prep">
+      <Suggestion>to (prep)</Suggestion>
+    </STE-issue>
+    <STE-issue word="slide" POS="v">
+      <Suggestion>move (v)</Suggestion>
+    </STE-issue>
+  </Instruction>
+  <Instruction>
+    14. Replace the ribbon cartridge and top cover, and plug the power cord back in.
+    <Tools/>
+    <STE-issue word="plug" POS="v">
+      <Suggestion>connect (v)</Suggestion>
+    </STE-issue>
+  </Instruction>
+</Manual_maintenance>

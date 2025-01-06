@@ -1,0 +1,1300 @@
+<?xml version="1.0" ?>
+<Manual_maintenance>
+  <Paragraph topic="FUEL LINES">
+    <Instruction>
+      Replace any parts which show deterioration, dam- age or leakage.
+      <Tools/>
+      <STE-issue word="fuel" POS="v">
+        <Suggestion>refuel (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="FUEL STRAINER">
+    <Instruction>
+      Turn the fuel valve OFF.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Remove the fuel cup, O-ring and strainer, draining the gasoline into a suitable container,
+      <Tools>
+        <Tool>cup</Tool>
+        <Tool>O-ring</Tool>
+        <Tool>strainer</Tool>
+        <Tool>container</Tool>
+      </Tools>
+      <STE-issue word="suitable" POS="adj">
+        <Suggestion>applicable (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="W WARNING">
+    <Instruction>
+      Gasoline is flammable and is explosive under certain conditions. Do not smoke or allow flames or sparks near the equipment while draining fuel. |
+      <Tools/>
+      <STE-issue word="under" POS="prep">
+        <Suggestion>below (prep)</Suggestion>
+      </STE-issue>
+      <STE-issue word="allow" POS="v">
+        <Suggestion>let (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Wash the cup and strainer in clean nonflammable or high flash point solvent.
+      <Tools>
+        <Tool>cup</Tool>
+        <Tool>strainer</Tool>
+      </Tools>
+      <STE-issue word="wash" POS="v">
+        <Suggestion>clean (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Reinstall the screen, aligning the index marks on the fuel valve body and strainer. Install a new O-ring into the fuel’ valve body. Reinstall the fuel cup, making sure the new O-ring is in place, Hand tighten the fuel cup and torque to specifica- tion. ;
+      <Tools>
+        <Tool>strainer</Tool>
+        <Tool>O-ring</Tool>
+        <Tool>cup</Tool>
+      </Tools>
+      <STE-issue word="reinstall" POS="v">
+        <Suggestion>install (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="reinstall" POS="v">
+        <Suggestion>install (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="reinstall" POS="v">
+        <Suggestion>install (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="reinstall" POS="v">
+        <Suggestion>install (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      TORQUE: 3-5 N-m (0.3—0.5 kg-m, 2—4 ft-lb)
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      After installing the strainer and refilling the tank, turn the fuel valve'ON and check that there are no leaks.
+      <Tools>
+        <Tool>strainer</Tool>
+      </Tools>
+    </Instruction>
+    <Instruction>
+      Date of Issue: Oct., 1983 © HONDA MOTOR(CO., LTD.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="FUEL LINE DIAPHRAGM REMOVAL">
+    <Instruction>
+      Turn the fuel valve OFF.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Remove the seat.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Disconnect the fuel line, vacuum line and air vent tube.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Remove the fuel tank.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="INSPECTION">
+    <Instruction>
+      Place a suitable drainage container under the fuel line.
+      <Tools>
+        <Tool>container</Tool>
+      </Tools>
+      <STE-issue word="place" POS="v">
+        <Suggestion>put (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="suitable" POS="adj">
+        <Suggestion>applicable (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="under" POS="prep">
+        <Suggestion>below (prep)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Turn the fuel valve to ON. If fuel comes out of the fuel line, replace the fuel line diaphragm.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Connect a vacuum gauge to the diaphragm vacuum outlet. Fuel should flow from the fuel line when 12—20 mm Hg (0.48—0.8 in Hg) of vacuum is applied. If flow is restricted, replace the fuel line diaphragm.
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="INSTALLATION">
+    <Instruction>
+      Installation of the fuel line diaphragm is the reverse order of removal.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="NOTE">
+    <Instruction>
+      Be sure all fuel line, vacuum line and air vent tube connections are tight and not leaking. THROTTLE OPERATION
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Check for smooth throttle grip full opening and automatic full closing in all steering positions.
+      <Tools/>
+      <STE-issue word="grip" POS="v">
+        <Suggestion>hold (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Lubricate the cables, if throttle operation is not smooth. .
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Make sure that the throttle cables are not de- teriorated, damaged, or kinked. Replace any damaged parts.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Make sure throttle grip free play is 2-6 mm (1/8— 1/4 in) at the throttle grip flange.
+      <Tools/>
+      <STE-issue word="grip" POS="v">
+        <Suggestion>hold (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="grip" POS="v">
+        <Suggestion>hold (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="‘83 MODEL —_— PS"/>
+  <Paragraph topic="€ EONDA CB650SC">
+    <Instruction>
+      &amp; | q VACUUM GAUGE A973X—041—XXXX or ST—AH—260—MC7 2-6 mm (1/8—1/4 in) ‘84 MODEL
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="VACUUM LINE">
+    <Instruction>
+      3-6
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Date of Issue: Oct., 1983 ©HONNA MATAR CON 1th
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="HONDA">
+    <Instruction>
+      Minor adjustments are performed at the upper adjuster. Adjust \free play by loosening the lock nut and turning the adjuster. Tighten the lock nut.
+      <Tools/>
+      <STE-issue word="minor" POS="adj">
+        <Suggestion>small (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="upper" POS="adj">
+        <Suggestion>maximum (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="UPPER ADJUSTER">
+    <Instruction>
+      Recheck throttle operation. 7 ~._ Replace any damaged parts.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="LOCK NUT">
+    <Instruction>
+      Major adjustments are made at the lower adjuster
+      <Tools/>
+      <STE-issue word="major" POS="adj">
+        <Suggestion>primary (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      LOWER ADJUSTER on the carburetor. iii |
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      To adjust, remove the fuel tank, loosen the grip play adjuster lock nut and turn the adjuster.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Tighten the lock nut.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="LOCK NUT"/>
+  <Paragraph topic="~ CARBURETOR CHOKE OPEN">
+    <Instruction>
+      Check for smooth upper choke lever operation. Lubricate the choke cable, if the operation is not smooth.
+      <Tools/>
+      <STE-issue word="upper" POS="adj">
+        <Suggestion>maximum (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="CLOSED CHOKE LEVER"/>
+  <Paragraph topic="CLOSED CHOKE LEVER">
+    <Instruction>
+      Date of Issue: Oct.,/1983 -7 © HONDA MOTOR CO., LTD. 3
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Remove the seat and fuel tank.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Push the choke lever on the handlebar all the way forward to fully open position and measure the choke valve stroke at the No. 3 carburetor between the fully closed and fully open positions.
+      <Tools/>
+      <STE-issue word="way" POS="n">
+        <Suggestion>procedure (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="stroke" POS="n">
+        <Suggestion>travel (n)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      CHOKE VALVE STROKE: 5—7 mm (3/16—1/4 in) Adjust if necessary by loosening the choke cable clamp on the carburetor and moving the cable casing.
+      <Tools/>
+      <STE-issue word="stroke" POS="n">
+        <Suggestion>travel (n)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Recheck the choke valve stroke.
+      <Tools/>
+      <STE-issue word="recheck" POS="v">
+        <Suggestion>measure (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="stroke" POS="n">
+        <Suggestion>travel (n)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Install the fuel tank and seat.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="AIR CLEANER">
+    <Instruction>
+      Remove the frame right side cover.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Remove the three air cleaner cover screws and cover.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Pull the air cleaner element set spring out and re-
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      move the element.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      @)tecsosc. CB650SC
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="CHOKE CABLE"/>
+  <Paragraph topic="SET SPRING">
+    <Instruction>
+      5—7 mm (3/16—1/4 in)
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      La,
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Date of Issue: Oct., 1983 © HONDA MOTOR CO.. LTD-
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="€ EHONDA CB650SC">
+    <Instruction>
+      Clean the element by tapping it lightly to loosen dust. Blow away the remaining dust by applying compressed air from outside the element.
+      <Tools/>
+      <STE-issue word="outside" POS="prep">
+        <Suggestion>near (prep)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Replace the element if it is excessively dirty, broken or damaged.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Reinstall the element, element set spring, air cleaner cover and frame pt side cover.
+      <Tools/>
+      <STE-issue word="reinstall" POS="v">
+        <Suggestion>install (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="CRANKCASE BREATHER">
+    <Instruction>
+      Remove the plug from the drain tube to empty any deposits.
+      <Tools/>
+      <STE-issue word="empty" POS="v">
+        <Suggestion>remove (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Install the drain plug.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="NOTE">
+    <Instruction>
+      Service more frequently when riding in rain or at full throttle, or if the deposit level can be seen in the transparent section of the drain tube.
+      <Tools/>
+      <STE-issue word="deposit" POS="n">
+        <Suggestion>particle (n)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="SPARK PLUGS">
+    <Instruction>
+      Tc DPR8EA-9 | X24EPR-U9
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      (Below 5° 41°F), | DPR7EAS | X22EPR-UQ
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Clean any dirt from around the spark plug bases. Disconnect the spark plug caps. 66-06 mrs
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      0.031—0.035 in) CENTER Remove and discard tthe spark plugs. ( ELECTRODE
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="DRAIN PLUG"/>
+  <Paragraph topic="SIDE ELECTRODE">
+    <Instruction>
+      Measure the new spark plug gaps using a wire-type feeler gauge.
+      <Tools>
+        <Tool>feeler gauge</Tool>
+      </Tools>
+      <STE-issue word="using" POS="v">
+        <Suggestion> use (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      SPARK PLUG GAP: 0.8—0.9 mm (0.031—0.035 in)
+      <Tools/>
+      <STE-issue word="gap" POS="n">
+        <Suggestion>clearance (n)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Adjust by bending the side electrode carefully.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      With the plug washers attached, thread the spark plugs in by hand to prevent crossthreading. ;
+      <Tools/>
+      <STE-issue word="thread" POS="v">
+        <Suggestion>put (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Tighten the spark |plugs another 1/2 turn with a spark plug wrench to compress the plug washers.
+      <Tools>
+        <Tool>wrench</Tool>
+      </Tools>
+    </Instruction>
+    <Instruction>
+      Connect the spark plug caps. ae ee ree ee ———E—E—Eee———e Date of Issue:,Oct., 1983 2-a © HONDA MOTOR CO., LTD.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="€ EONDA CB650SC">
+    <Instruction>
+      MAINTENANCE CARBURETOR SYNCHRONIZATION ~~) NOTE Synchronize the carburetors with the engine at normal operating temperature, trans- mission in neutral and motorcycle on the —~ center stand. Remove the both frame side covers, seat and fuel tank, Turn the fuel valve OFF and remove the fuel and \ vacuum lines. Remove the fuel tank. Prepare a longer fuel line and reconnect it between the fuel tank and carburetor. Position the fuel tank higher than normal. Remove the plugs from the cylinder head intake ports and install the vacuum gauge adaptors. Connect the vacuum gauges. = \
+      <Tools/>
+      <STE-issue word="synchronize" POS="v">
+        <Suggestion>adjust (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="normal" POS="adj">
+        <Suggestion>usual (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="normal" POS="adj">
+        <Suggestion>usual (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="position" POS="v">
+        <Suggestion>put (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="normal" POS="adj">
+        <Suggestion>usual (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="normal" POS="adj">
+        <Suggestion>usual (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Plug the vacuum tube end with a suitable stopper. Start the engine and adjust the idle speed. IDLE SPEED: 1,100 + 100 rpm
+      <Tools>
+        <Tool>stopper</Tool>
+      </Tools>
+      <STE-issue word="plug" POS="v">
+        <Suggestion>connect (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="end" POS="v">
+        <Suggestion>stop (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="suitable" POS="adj">
+        <Suggestion>applicable (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Check that the difference in vacuum readings is 50 mmHg (2.0 inHg) or less.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="ADJUSTMENT"/>
+  <Paragraph topic="NOTE">
+    <Instruction>
+      The No. 2 carburetor cannot be adjusted: it is the base.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Adjust within specifications by turning the adjusting screws.
+      <Tools/>
+      <STE-issue word="within" POS="prep">
+        <Suggestion>in (prep)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Recheck the idle speed and synchronization.
+      <Tools/>
+      <STE-issue word="recheck" POS="v">
+        <Suggestion>measure (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Install the fuel tank, seat and side covers.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      3-10
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      VACUUM GAUGE 07404—0020000 or M937B—021—XXXXxX (U.S.A. ONLY)
+      <Tools/>
+      <STE-issue word="gauge" POS="v">
+        <Suggestion>measure (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Date of Issue: Oct., 1983 © HONDA MOTOR CO ITN
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="HONDA CB650SC"/>
+  <Paragraph topic="IDLE SPEED ADJUSTMENT"/>
+  <Paragraph topic="NOTE">
+    <Instruction>
+      Inspect and adjust idle speed after all other engine adjustments are within specifica-
+      <Tools/>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="within" POS="prep">
+        <Suggestion>in (prep)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      tions. |
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      The engine must be warm for accurate idle adjustment. Ten minutes of stop- and-go driving is sufficient.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Warm up the jengine, shift to NEUTRAL, and place the motorcycle on its center stand.
+      <Tools/>
+      <STE-issue word="place" POS="v">
+        <Suggestion>put (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Turn the throttle stop screw as required to obtain the specified idle speed.
+      <Tools/>
+      <STE-issue word="screw" POS="v">
+        <Suggestion>turn (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="as" POS="conj">
+        <Suggestion>because (conj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="obtain" POS="v">
+        <Suggestion>get (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      IDLE SPEED: 1/100 + 100 rpm
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      &quot;84: EVAPORATIVE EMISSION CONTROL SYSTEM (California model only)
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Check the fuel tank breather tube between the tank cap and canister and the vacuum tube between the canister and purge control valve for deterioration, damage or loose joints or connections. Also check the tubes for clogging due to bending or twisting.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Check the fuel tank sealing rubber for deterioration.
+      <Tools/>
+    </Instruction>
+    <Warning>
+      Check the canister for cracks or damage. Check the protector for evidence of damage or other faults.
+      <Tools/>
+    </Warning>
+    <Instruction>
+      Date of Issue: Oct., 1983 © HONDA MOTOR CO.. LTD.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="BER"/>
+  <Paragraph topic="IGNITION TIMING © DYNAMIC">
+    <Instruction>
+      Remove the pulse generator cover.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Connect a stroboscopic timing light to the No. 1 or No. 4 cylinder’s spark plug wire.
+      <Tools>
+        <Tool>timing light</Tool>
+      </Tools>
+    </Instruction>
+    <Instruction>
+      Start the engine and let it idle. IDLE SPEED: 1,100 + 100 rpm
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Aim the timing light at the timing mark. The “F” mark should align with the index mark.
+      <Tools>
+        <Tool>timing light</Tool>
+      </Tools>
+      <STE-issue word="aim" POS="v">
+        <Suggestion>point (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="COMPRESSION TEST">
+    <Instruction>
+      Warm up the engine. Stop the engine and remove all spark plugs.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Insert the compression gauge.
+      <Tools/>
+      <STE-issue word="insert" POS="v">
+        <Suggestion>put (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Open the throttle valves all the way and crank the engine with the starter motor.
+      <Tools/>
+      <STE-issue word="way" POS="n">
+        <Suggestion>procedure (n)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      NOTE Crank the engine until the gauge reading
+      <Tools/>
+      <STE-issue word="note" POS="v">
+        <Suggestion>record (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="reading" POS="n">
+        <Suggestion>indication (n)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      stops rising. The maximum reading is usually reached within 4—7 seconds.
+      <Tools/>
+      <STE-issue word="reading" POS="n">
+        <Suggestion>indication (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="within" POS="prep">
+        <Suggestion>in (prep)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      COMPRESSION PRESSURE: 1,176.8 + 98.1 kPa (12 + 1 kg/cm”, 170 + 14 psi)
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      If compression is low, check the following: — Leaky valves
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      — Hydraulic valve adjusters
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      — Leaking cylinder head gasket
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      — Worn piston/ring/cylinder
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      High compression indicates that carbon deposits have accumulated on the combustion chamber or the piston crown.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      3-12
+      <Tools/>
+      <STE-issue word="gauge" POS="v">
+        <Suggestion>measure (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="INDEX MARK"/>
+  <Paragraph topic="€ HONDA. CB650SC"/>
+  <Paragraph topic="TIMING LIGHT"/>
+  <Paragraph topic="COMPRESSION GAUGE">
+    <Instruction>
+      Date of Issue: Oct., 1983
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      PUIALAIR A AaATA RR Ae
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      € HONDA. (©) &quot;esesose BATTERY
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Remove the frame right side cover and inspect the battery fluid level. When the fluid level nears the lower level line, remove the battery as follows:
+      <Tools/>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="as" POS="conj">
+        <Suggestion>because (conj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="UPPER LEVEL">
+    <Instruction>
+      Remove the battery holder plate bolt and dis-
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      connect the secondary ground cable open the battery plate.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Disconnect the negative cable at the battery termi- nal, then remove the positive cable.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Pull the battery out, remove the filler caps and add distilled water to the upper level line.
+      <Tools/>
+      <STE-issue word="upper" POS="adj">
+        <Suggestion>maximum (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Reinstall the filler caps and reinstall the battery.
+      <Tools/>
+      <STE-issue word="reinstall" POS="v">
+        <Suggestion>install (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="reinstall" POS="v">
+        <Suggestion>install (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="reinstall" POS="v">
+        <Suggestion>install (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="reinstall" POS="v">
+        <Suggestion>install (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="NOTE">
+    <Instruction>
+      Add only distilled water. Tap water will shorten the service life of the battery.
+      <Tools/>
+      <STE-issue word="shorten" POS="v">
+        <Suggestion>decrease (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="W WARNING">
+    <Warning>
+      The battery | electrolyte contains sulfuric acid, Protect your eyes, skin and clothing.
+      <Tools/>
+      <STE-issue word="protect" POS="v">
+        <Suggestion>prevent (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Instruction>
+      If electrolyte gets in your eyes; flush them throughly with water and get prompt medical attention.
+      <Tools/>
+      <STE-issue word="get" POS="v">
+        <Suggestion>become (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="attention" POS="n">
+        <Suggestion>aid (n)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Replace the battery, if sulfation forms or sedimants accumulate on the bottom.
+      <Tools/>
+      <STE-issue word="accumulate" POS="v">
+        <Suggestion>collect (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="BRAKE FLUID">
+    <Instruction>
+      Check the front brake fluid reservoir level. If the level nears the lower level mark, remove
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      the cover and diaphragm. Fill the reservoir) with DOT—3 or DOT—4 to the upper level mark on the inside of the reservoir.
+      <Tools/>
+      <STE-issue word="upper" POS="adj">
+        <Suggestion>maximum (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Check the entire) system for leaks, if the level is low.
+      <Tools/>
+      <STE-issue word="entire" POS="adj">
+        <Suggestion>full (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Date of Issue: Oct., 1983 © HONDA MOTOR CO., LTD.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="UPPER LEVEL">
+    <Instruction>
+      3-13
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      HON DA. ©) &quot;cBe5s0sc
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="CAUTION">
+    <Instruction>
+      Do not remove the cover until the handle- bar has been turned so that the reservoir is level,
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Avoid operating the brake lever with the
+      <Tools/>
+      <STE-issue word="avoid" POS="v">
+        <Suggestion>prevent (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      cap removed. Brake fluid will squirt out if the lever is pulled.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Do not mix different types of fluid, they are not compatible with each other.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="BRAKE SHOE/PAD WEAR">
+    <Instruction>
+      BRAKE PAD WEAR Check the brake pads for wear by looking through
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      the slot indicated by the arrow cast on the caliper assembly.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Replace the brake pads if the wear line on the pads reaches the edge of the brake disc (page 16-5).
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      CAUTION Always replace the brake pads in pairs to assure even disc pressure.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Refer to section 16 for brake bleeding procedures.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      BRAKE SHOE INSPECTION Replace the brake shoes if the arrow on the brake
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      arm aligns with the reference mark “4” on full application of the rear brake pedal.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="BRAKE SYSTEM">
+    <Instruction>
+      Inspect the brake hoses and fittings for deteriora- tion, cracks and signs of leakage. Tighten any loose fittings.
+      <Tools/>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Replace hoses and fittings as required.
+      <Tools/>
+      <STE-issue word="as" POS="conj">
+        <Suggestion>because (conj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="UPPER LEVEL">
+    <Instruction>
+      i&quot; “
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="ARROW">
+    <Instruction>
+      r ] }
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="“A MARK">
+    <Instruction>
+      3-14
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Date of Issue: Oct., 1983 © HONDA MOTOR CO.. LTD.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="HONDA CB650SC"/>
+  <Paragraph topic="BRAKE PEDAL HEIGHT"/>
+  <Paragraph topic="STOPPER BOLT">
+    <Instruction>
+      Adjust brake pedal height so the pedal is 7 mm (1/4 in) below the top of the foot peg.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="CAUTION">
+    <Instruction>
+      Incorrect brake pedal height can cause brake drag.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      To Adjust:
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Loosen the stopper bolt lock nut and turn the stopper bolt.
+      <Tools>
+        <Tool>stopper</Tool>
+      </Tools>
+      <STE-issue word="lock" POS="v">
+        <Suggestion>lock (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Retighten the lock nut.
+      <Tools/>
+      <STE-issue word="note" POS="v">
+        <Suggestion>record (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="NOTE |">
+    <Instruction>
+      After adjusting the brake ‘pedal height, check the rear brake light switch and brake pedal free play and adjust if necessary.
+      <Tools/>
+      <STE-issue word="note" POS="v">
+        <Suggestion>record (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="LOCK NUT"/>
+  <Paragraph topic="BRAKE PEDAL FREE PLAY"/>
+  <Paragraph topic="NOTE |">
+    <Instruction>
+      Perform brake pedal free play adjustment after adjusting brake pedal height. Check the brake i free play. FREE PLAY: 20-30 mm (3/4—1-1/4 in) |
+      <Tools/>
+      <STE-issue word="perform" POS="v">
+        <Suggestion>do (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      If adjustment is necessary, turn the rear brake ad-
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      justing nut,
+      <Tools/>
+      <STE-issue word="switch" POS="v">
+        <Suggestion>set (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="BRAKE LIGHT SWITCH">
+    <Instruction>
+      NOTE Perform brake light switch adjustment after adjusting the brake pedal play and height.
+      <Tools/>
+      <STE-issue word="note" POS="v">
+        <Suggestion>record (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="perform" POS="v">
+        <Suggestion>do (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Adjust the brake light switch so that the brake light will come on when the brake pedal is depressed 20 mm (3/4 in), and brake engagement begins.
+      <Tools/>
+      <STE-issue word="switch" POS="v">
+        <Suggestion>set (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Adjust by holding the switch body and turning the adjusting nut. Do not turn the switch body.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="NOTE">
+    <Instruction>
+      The front brake light switch does not require adjustment.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Date of Issue: Oct., 198 3- 1 a
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="© HONDA MOTOR(CO., LTD."/>
+  <Paragraph topic="HONDA “MAINTENANCE CB650SC"/>
+  <Paragraph topic="HEADLIGHT AIM">
+    <Instruction>
+      Adjust vertically by loosening both headlight case mounting bolts.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      NOTE Adjust the headlight beam as specified by local laws and regulations.
+      <Tools/>
+      <STE-issue word="as" POS="conj">
+        <Suggestion>because (conj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Warning>
+      W WARNING An improperly adjusted headlight may blind oncoming drivers, or it may fail to light the road for a safe distance.
+      <Tools/>
+      <STE-issue word="improperly" POS="adv">
+        <Suggestion>incorrectly (adv)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+  </Paragraph>
+  <Paragraph topic="MOUNTING BOLT"/>
+  <Paragraph topic="CLUTCH">
+    <Instruction>
+      Check the clutch fluid reservoir level.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      If the level nears the lower level mark, fill the reservoir with DOT-3 or DOT-4 to the upper level mark.
+      <Tools/>
+      <STE-issue word="upper" POS="adj">
+        <Suggestion>maximum (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Check the entire system for leaks, if the level is low.
+      <Tools/>
+      <STE-issue word="entire" POS="adj">
+        <Suggestion>full (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="CAUTION">
+    <Instruction>
+      * Do not remove the cover until the hand- lebar has been turned so that the reservoir is level,
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      * Avoid operating the clutch lever with the cap removed, Fluid will squirt out if the lever is pulled.
+      <Tools/>
+      <STE-issue word="avoid" POS="v">
+        <Suggestion>prevent (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      * Do not mix different types of fluid, as
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      they are not compatible.
+      <Tools/>
+      <STE-issue word="stand" POS="v">
+        <Suggestion>stay (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="UPPER LEVEL MARK"/>
+  <Paragraph topic="SIDE STAND ©">
+    <Instruction>
+      Check the rubber pad for deterioration or wear, NO Goop Replace if any wear extends to wear line as shown.
+      <Tools/>
+      <STE-issue word="as" POS="conj">
+        <Suggestion>because (conj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Check the side stand spring for damage and loss of tension, and the side stand assembly for freedom of movement. Make sure the side stand is not bent.
+      <Tools/>
+      <STE-issue word="stand" POS="v">
+        <Suggestion>stay (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="stand" POS="v">
+        <Suggestion>stay (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="stand" POS="v">
+        <Suggestion>stay (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Date of Issue: Oct., 1983 3- 1 6 © HONDA MOTOR CO.. LTD.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      os,
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="«4 HONDA CB650SC"/>
+  <Paragraph topic="NOTE">
+    <Instruction>
+      When replacing, use a rubber pad with the mark ‘Over 260 Ibs ONLY”,
+      <Tools/>
+      <STE-issue word="over" POS="prep">
+        <Suggestion>above (prep)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      * Spring tension is correct if the measure- ments fall within 2-3 kg (4.4-6.6 Ib), when pulling the side stand lower end with a spring scale.
+      <Tools/>
+      <STE-issue word="within" POS="prep">
+        <Suggestion>in (prep)</Suggestion>
+      </STE-issue>
+      <STE-issue word="stand" POS="v">
+        <Suggestion>stay (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="SUSPENSION">
+    <Instruction>
+      Do not ride a vehicle with faulty suspen- sion. Loose, worn or damaged suspension Parts impair vehicle stability and control.
+      <Tools/>
+      <STE-issue word="faulty" POS="adj">
+        <Suggestion>defective (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="impair" POS="v">
+        <Suggestion>decrease (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="FRONT">
+    <Instruction>
+      Check the action of the front forks by compressing them several times.
+      <Tools/>
+      <STE-issue word="action" POS="n">
+        <Suggestion>step (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="several" POS="adj">
+        <Suggestion>some (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Check the entire! fork assembly for leaks or damage. Replace damaged components which cannot be repaired.
+      <Tools/>
+      <STE-issue word="entire" POS="adj">
+        <Suggestion>full (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Tighten all nuts and bolts.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Check the front fork air pressure when the: forks are cold.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Place the vehicle on its center stand.
+      <Tools/>
+      <STE-issue word="place" POS="v">
+        <Suggestion>put (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Remove each air valve cap and measure the air pressure.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      AIR PRESSURE: 0—40 kPa (0—0.4 kg/cm”, 0-6 psi)
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Date of Issue: Oct., 1983 © HONDA MOTOR CO., LTD.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="AINTENANC">
+    <Instruction>
+      3-17
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="HONDA MAINTENANCE CB650SC"/>
+  <Paragraph topic="ANTI-DIVE SYSTEM INSPECTION">
+    <Instruction>
+      Check the operation of the anti-dive system in all positions by riding the motorcycle and firmly ap- plying the brakes.
+      <Tools/>
+      <STE-issue word="firmly" POS="adv">
+        <Suggestion>tightly (adv)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Position Anti-dive damper force
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="LIGHT ANTI-DIVE MEDIUM HARD MAXIMUM ANTI-DIVE">
+    <Instruction>
+      Inspect and if necessary, repair the system (Refer to section 14).
+      <Tools/>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="REAR">
+    <Instruction>
+      Place the motorcycle on its center stand.
+      <Tools/>
+      <STE-issue word="place" POS="v">
+        <Suggestion>put (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Move the rear wheel sideways with force to see if the swingarm bearings are worn. Replace if ex-
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      cessively worn.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Check the shock absorber for leaks or damage. Tighten all rear suspension nuts and bolts.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="NUTS, BOLTS, FASTENERS">
+    <Instruction>
+      ( \ Check that all chassis nuts and bolts are tightened to correct torque values (page 1-4). Check that all cotter pins, safety clips, hose clamps and cable stays are in place. d
+      <Tools>
+        <Tool>hose clamps</Tool>
+      </Tools>
+    </Instruction>
+    <Instruction>
+      Date of Issue: Oct., 1983 3-18 © HONDA MOTOR CO., LTD.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="€ HONDA ©) CB650SC WHEELS"/>
+  <Paragraph topic="TIRE PRESSURE NOTE">
+    <Instruction>
+      Tire pressure should be checked when tires are COLD.
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Check the tires for cuts, imbedded nails, or other sharp objects.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Recommended tire pressures and tire sizes:
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="100/90-19 57H | 130/90-16 67H">
+    <Instruction>
+      280 (2.8, 40)
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Check the front and rear wheels for trueness (Refer to section 14, 15),
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="L303">
+    <Instruction>
+      Measure the tread depth at the center of the tires, Replace the tires if the tread depth reaches the following limit: Minimum tread depth:
+      <Tools/>
+      <STE-issue word="following" POS="adj">
+        <Suggestion>these (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Front: 1.5 mm (1/16 in)
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Rear: 2.0 mm (3/32 in)
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="STEERING HEAD BEARINGS">
+    <Instruction>
+      NOTE Check that the control cables do not interfere with handlebar rotation. Raise the front wheel off the ground.
+      <Tools/>
+      <STE-issue word="interfere" POS="v">
+        <Suggestion>hit (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="raise" POS="v">
+        <Suggestion>lift (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Check that the handlebar moves freely from side to side. If the handlebar moves unevenly, binds, or has vertical movement, adjust the steering head bearing by turning the steering head adjusting nut with a pin spanner.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Date of Issue: Oct., 1983 3- 1 Sg
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="© HONDA MOTOR CO., LTD."/>
+  <Paragraph topic="HONDA CB650SC"/>
+</Manual_maintenance>

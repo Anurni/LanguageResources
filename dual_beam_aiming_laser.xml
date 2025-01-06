@@ -1,0 +1,683 @@
+<?xml version="1.0" ?>
+<Manual_maintenance>
+  <Paragraph topic="OPERATOR / CREW REMOVAL / REPLACEMENT PROCEDURES"/>
+  <Paragraph topic="OPERATOR / CREW REPLACEMENT">
+    <Instruction>
+      The Operator / Crew maintenance is limited to the following tasks: + Battery Replacement
+      <Tools/>
+      <STE-issue word="following" POS="adj">
+        <Suggestion>these (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      + Battery Cap Replacement
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      + Battery Cap Retaining Strap Replacement
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      + Battery Cap O-Ring Replacement
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      - Pattern Generators
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      * VIS POINT, I/R POINT, and I/R ILLUM Exit Port Covers Replacement
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="WARNING">
+    <Warning>
+      Ensure the Mode Selector Switch is turned to the 0 (OFF) position and lens cover and safety screws are in place before attempting to install, remove, or replace batteries. Failure to comply may lead to laser radiation explosure possibly resulting in permanent eye and/or skin damage. In case of eye and/or skin damage, seek immediate medical attention.
+      <Tools/>
+      <STE-issue word="comply" POS="v">
+        <Suggestion>obey (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="lead" POS="v">
+        <Suggestion>put (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="seek" POS="v">
+        <Suggestion>get (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="attention" POS="n">
+        <Suggestion>aid (n)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      Removal
+      <Tools/>
+    </Warning>
+    <Warning>
+      1. Unscrew Battery Cap (Figure 1) by turning counter clockwise.
+      <Tools/>
+    </Warning>
+    <Warning>
+      2. Remove used batteries (Figure 1) and dispose in accordance with local procedures.
+      <Tools/>
+    </Warning>
+    <Warning>
+      Replace
+      <Tools/>
+    </Warning>
+  </Paragraph>
+  <Paragraph topic="NOTE">
+    <Instruction>
+      Proper battery orientation is clearly marked on the AN/PEQ-15A housing.
+      <Tools/>
+      <STE-issue word="proper" POS="adj">
+        <Suggestion> correct (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Insert new Battery (Figure 1) and replace and tighten the Battery Cap (Figure 1)
+      <Tools/>
+      <STE-issue word="insert" POS="v">
+        <Suggestion>put (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      by turning clockwise.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Figure 1. Battery Replacement
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="BATTERY CAP REPLACEMENT">
+    <Instruction>
+      Removal
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      1. Unscrew Battery Cap (Figure 2) by turning counter clockwise.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      2. Pull Battery Cap Retaining Strap (Figure 2) off over the Battery Cap Retaining Stud (Figure 2) located on the Battery Cap (Figure 2).
+      <Tools/>
+      <STE-issue word="over" POS="prep">
+        <Suggestion>above (prep)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Replace
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      1. Stretch the end of the Battery Cap Retaining Strap (Figure 2) over the Battery Cap Retaining Stud (Figure 2) located on the Battery Cap (Figure 2).
+      <Tools/>
+      <STE-issue word="over" POS="prep">
+        <Suggestion>above (prep)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      2. Replace Battery Cap (Figure 2) by turning clockwise to tighten.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Battery Cap Battery Cap iE Retaining Stud Retaining
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Strap
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Figure 2. Battery Cap Replacement
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="BATTERY CAP RETAINING STRAP REPLACEMENT"/>
+  <Paragraph topic="NOTE">
+    <Instruction>
+      Install the Battery Cap Retaining Strap below the Exit Port Cover Retaining
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Strap used on the Visible Point Laser. If necessary, remove the bottom Exit
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Port Cover Strap Stud from the Visible Point Laser Exit Port Cover then install
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      the Battery Cap Retaining Strap.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Removal
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      1. Unscrew Battery Cap (Figure 3) by turning counter clockwise.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      2. Pull Battery Cap Retaining Strap (Figure 3) off over the Battery Cap Retaining Stud (Figure 3) on the Battery Cap (Figure 3).
+      <Tools/>
+      <STE-issue word="over" POS="prep">
+        <Suggestion>above (prep)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      3. Pull the other side of the Battery Cap Retaining Strap (Figure 3) off over the Exit Port Cover Strap Stud (Figure 3) below the Visible Point Laser (Figure 3).
+      <Tools/>
+      <STE-issue word="over" POS="prep">
+        <Suggestion>above (prep)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Visible Point Laser
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Battery Cap Retaining Stud Exit Port Cover Strap Stud
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Battery Cap Retaining Strap
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Battery Cap
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Figure 3. Battery Cap Retaining Strap Replacement
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Replacement
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      1. Stretch one end of the Battery Cap Retaining Strap (Figure 3) over the Exit Port Cover Strap Stud (Figure 3) below the Visible Point Laser (Figure 3).
+      <Tools/>
+      <STE-issue word="over" POS="prep">
+        <Suggestion>above (prep)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      2. Stretch the other end of the Battery Cap Retaining Strap (Figure 3) over the Battery Cap Retaining Stud (Figure 3) on the Battery Cap (Figure 3).
+      <Tools/>
+      <STE-issue word="over" POS="prep">
+        <Suggestion>above (prep)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      3. Replace Battery Cap (Figure 3) and turn clockwise to tighten.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="BATTERY CAP O-RING REPLACEMENT">
+    <Instruction>
+      Removal
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      1. Unscrew Battery Cap (Figure 4) by turning counter clockwise.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      2. Use the fingers of one hand to squeeze the Battery Cap O-Ring (Figure 4) while simultaneously pushing it out of the Battery Cap O-Ring Retaining Groove (Figure 4). Grasp the Battery Cap O-Ring (Figure 4) with fingers of the other hand and pull it off the battery compartment threads.
+      <Tools/>
+      <STE-issue word="grasp" POS="v">
+        <Suggestion>hold (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      3. Use a disposable applicator to clean the Battery Cap O-Ring Retaining Groove (Figure 4) of any dirt, grease, or debris.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Battery Cap O-Ring
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Battery Cap
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Battery Cap O-Ring Retaining Groove
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Figure 4. Battery Cap O-Ring Replacement
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Replacement
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="WARNING">
+    <Warning>
+      Do not use chemicals in an enclosed area. Ensure work area is well ventilated. Inhaling chemical vapors may lead to respiratory issues. In case of exposure, seek immediate medical attention.
+      <Tools/>
+      <STE-issue word="well" POS="adv">
+        <Suggestion>correctly (adv)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="lead" POS="v">
+        <Suggestion>put (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="seek" POS="v">
+        <Suggestion>get (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="attention" POS="n">
+        <Suggestion>aid (n)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      1. Stretch the Battery Cap O-Ring (Figure 4) over the battery compartment threads and slip it into the Battery Cap O-Ring Retaining Groove (Figure 4).
+      <Tools/>
+      <STE-issue word="over" POS="prep">
+        <Suggestion>above (prep)</Suggestion>
+      </STE-issue>
+      <STE-issue word="slip" POS="v">
+        <Suggestion>move (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      2. Replace the Battery Cap (Figure 4) and turn clockwise to tighten.
+      <Tools/>
+    </Warning>
+  </Paragraph>
+  <Paragraph topic="PATTERN GENERATORS REPLACEMENT">
+    <Instruction>
+      Removal
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Pull out Pattern Generators (Figure 5) from I/R POINT (Figure 5) or focused I/R ILLUM (Figure 5) with fingers to remove pattern generators (Figure 5).
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      1/R ILLUM 1/R POINT Pattern Generator Pattern Generator
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Figure 5. Replacing Pattern Generators
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Replacement Insert plug shaped side of the Pattern Generator (Figure 5) into the I/R POINT (Figure 5) or focused I/R ILLUM (Figure 5) and press firmly into place.
+      <Tools/>
+      <STE-issue word="press" POS="v">
+        <Suggestion>push (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="firmly" POS="adv">
+        <Suggestion>tightly (adv)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      VIS POINT, I/R POINT, and I/R ILLUM Exit Port Covers REPLACEMENT Removal
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Pull off VIS POINT, I/R POINT, and 1/R ILLUM Exit Port Covers (Figure 6) from the attachment points (Figure 6).
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      VIS POINT, I/R POINT, and I/R ILLUM Exit Port Covers
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Figure 6. VIS POINT, I/R POINT, and I/R ILLUM Exit Port Covers Replacement
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Replacement
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Stretch the open ends of Exit Port Cover Straps (Figure 6) over the attachment points (Figure 6) and over the Laser exit ports so that it fits snug and firmly in place.
+      <Tools/>
+      <STE-issue word="over" POS="prep">
+        <Suggestion>above (prep)</Suggestion>
+      </STE-issue>
+      <STE-issue word="over" POS="prep">
+        <Suggestion>above (prep)</Suggestion>
+      </STE-issue>
+      <STE-issue word="over" POS="prep">
+        <Suggestion>above (prep)</Suggestion>
+      </STE-issue>
+      <STE-issue word="over" POS="prep">
+        <Suggestion>above (prep)</Suggestion>
+      </STE-issue>
+      <STE-issue word="firmly" POS="adv">
+        <Suggestion>tightly (adv)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="MAINTAINER"/>
+  <Paragraph topic="REMOVAL / REPLACEMENT PROCEDURES">
+    <Instruction>
+      The Maintainer maintenance is limited to the following tasks:
+      <Tools/>
+      <STE-issue word="following" POS="adj">
+        <Suggestion>these (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      * Safety Screw Replacement
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Removal
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Remove Safety Screw (Figure 1) from Lockout Position by using a 3/32 inch hex head wrench and turning counter clockwise.
+      <Tools>
+        <Tool>wrench</Tool>
+      </Tools>
+      <STE-issue word="using" POS="v">
+        <Suggestion> use (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Figure 1. Safety Screw Replacement
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Replacement Install replacement Safety Screw (Figure 1) in the Lockout Position by using a 3/32 inch hex head wrench and turning clockwise.
+      <Tools>
+        <Tool>wrench</Tool>
+      </Tools>
+      <STE-issue word="using" POS="v">
+        <Suggestion> use (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="CLEANING"/>
+  <Paragraph topic="WARNING">
+    <Warning>
+      Failure to comply with the warnings below could lead to chemical inhalation
+      <Tools/>
+      <STE-issue word="comply" POS="v">
+        <Suggestion>obey (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="lead" POS="v">
+        <Suggestion>put (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      and skin irritation. If exposed, seek immediate medical attention.
+      <Tools/>
+      <STE-issue word="seek" POS="v">
+        <Suggestion>get (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="attention" POS="n">
+        <Suggestion>aid (n)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      * Isopropyl! alcohol can affect you when inhaled and by passing through your skin.
+      <Tools/>
+    </Warning>
+    <Warning>
+      - Contact can irritate and burn the skin and eyes. Repeated skin exposure can cause itching, redness, rash, drying, and cracking.
+      <Tools/>
+    </Warning>
+    <Warning>
+      * Inhaling isopropyl! alcohol can irritate the nose and throat.
+      <Tools/>
+    </Warning>
+    <Warning>
+      + Overexposure can cause headache, drowsiness, confusion, loss of coordination, unconsciousness, and death.
+      <Tools/>
+    </Warning>
+    <Warning>
+      - Isopropyl alcohol may affect the liver and kidneys.
+      <Tools/>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      * Isopropyl alcohol is a flammable liquid and a fire hazard.
+      <Tools/>
+    </Warning>
+  </Paragraph>
+  <Paragraph topic="AN/PEQ-15A HOUSING">
+    <Instruction>
+      Rinse thoroughly with fresh water or mild soap and water and then dry witha wiping rag. If necessary, clean around switches, adjusters, buttons, and rail grabber bracket using a disposable applicator.
+      <Tools/>
+      <STE-issue word="rinse" POS="v">
+        <Suggestion>flush (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="thoroughly" POS="adv">
+        <Suggestion>fully (adv)</Suggestion>
+      </STE-issue>
+      <STE-issue word="fresh" POS="adj">
+        <Suggestion>clean (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="mild" POS="adj">
+        <Suggestion>weak (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="dry" POS="v">
+        <Suggestion>dry (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="using" POS="v">
+        <Suggestion> use (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="LENS CLEANING">
+    <Instruction>
+      1. Remove Pattern Generator (Figure 1) (if used) or VIS POINT, I/R POINT, and I/R ILLUM Exit Port Covers (Figure 1) IAW WP 0014.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      2. Using a dry lens cleaning tissue, brush off all loose dirt from the lenses (Figure 1). Excessive force may result in scratching the lenses (Figure 1).
+      <Tools/>
+      <STE-issue word="using" POS="v">
+        <Suggestion> use (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="result" POS="v">
+        <Suggestion>cause (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      3. Soak a folded lens cleaning tissue with lens cleaning compound and lightly wipe the lens (Figure 1) slowly. Wipe in a circular motion beginning in the center of the lens (Figure 1) and ending at the edge. After one circular stroke, discard the tissue. Repeat this procedure until the lens (Figure 1) surface is clean.
+      <Tools/>
+      <STE-issue word="wipe" POS="v">
+        <Suggestion>clean (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="wipe" POS="v">
+        <Suggestion>clean (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="wipe" POS="v">
+        <Suggestion>clean (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="wipe" POS="v">
+        <Suggestion>clean (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="motion" POS="n">
+        <Suggestion>movement (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="stroke" POS="n">
+        <Suggestion>travel (n)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Battery Compartment
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Pattern Generator ees © \
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      VIS POINT, I/R POINT, and VR ILLUM Exit Port Covers
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      \ Battery Cap eer i
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Figure 1. Lens Cleaning
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="BATTERY CAP / COMPARTMENT AND CONTACTS">
+    <Instruction>
+      1. Remove Battery IAW WP 0014, Battery Replacement.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      2. Inspect the Battery Compartment (Figure 1) for dirt, dust and corrosion. Dirt or debris that cannot be shaken loose from the Battery Compartment (Figure 1) may be removed using a wiping rag or disposable applicator.
+      <Tools/>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="using" POS="v">
+        <Suggestion> use (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      3. Clean the threaded portions of the Battery Cap (Figure 1) and Battery Compartment (Figure 1) using a wiping rag. If necessary, use a disposable applicator dipped in isopropyl alcohol to gently clean the battery contacts on the inside of the Battery Cap (Figure 1).
+      <Tools/>
+      <STE-issue word="using" POS="v">
+        <Suggestion> use (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="gently" POS="adv">
+        <Suggestion>carefully (adv)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      4, Reinstall Battery Cap (Figure 1) by turning clockwise to tighten.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="REMOTE JACK CONTACTS">
+    <Instruction>
+      1. Remove Remote Cable Switch (Figure 2) or Remote Jack Plug (Figure 2) if installed.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      2. Inspect Remote Jack Plug (Figure 2) contacts for corrosion.
+      <Tools/>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      3. If necessary, use a disposable applicator dipped in isopropyl alcohol to gently clean the contacts.4. If necessary, flush Remote Jack Plug (Figure 2) with water to dislodge caked mud and dirt. .
+      <Tools/>
+      <STE-issue word="gently" POS="adv">
+        <Suggestion>carefully (adv)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      5. Reinstall Remote Cable Switch (Figure 2) or Remote Jack Plug if necessary.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Remote Jack Plug
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Remote Cable Switch
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Figure 2. Remote Jack Contacts
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="PREPARATION FOR STORAGE OR SHIPMENT">
+    <Instruction>
+      S Quick Reference Guide
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      5 aay
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Remote Cable Switch ————&gt;
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      AN/PEQ-15A Assembly
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Technical Manual
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Pattern Generators
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Battery Textile Bag
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Figure 1. Preparation for Storage and Shipment
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="STORAGE AND SHIPPING">
+    <Instruction>
+      1. Ensure the AN/PEQ-15A is turned off.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="CAUTION">
+    <Instruction>
+      When storing or shipping the AN/PEQ-15A ensure battery is removed. Failure to
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      comply may result in damage to equipment.
+      <Tools/>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="result" POS="v">
+        <Suggestion>cause (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      2. Remove the Batteries (WP 0014, Battery Removal) from the AN/PEQ-15A.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      3. Close the Battery Cover (WP 0014, Battery Removal).
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      4. Clean the AN/PEQ-15A IAW (WP 0016) before storage or shipment to ensure that the AN/PEQ-15A is free of all contaminants such as dirt or any other foreign material.
+      <Tools/>
+      <STE-issue word="foreign" POS="adj">
+        <Suggestion>unwanted (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      5. Refer to Figure | for placement of the AN/PEQ-15A and COEI into the Textile Bag.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+</Manual_maintenance>
