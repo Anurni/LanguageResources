@@ -1,0 +1,2175 @@
+<?xml version="1.0" ?>
+<Manual_maintenance>
+  <Paragraph topic="MAINTENANCE PROGRAM 020-9"/>
+  <Paragraph topic="ENGINE OIL SERVICE">
+    <Instruction>
+      The OIL SERVICE light in the service interval indicator should be the basic guide to scheduling oil changes. The oil service light should come on at or before 7,500 miles. If the car is used primarily for short trips in slow moving traffic, or routinely operated aggressively, the oil service light should come on earlier.
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Engine oil and filter, changing
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="NOTE �">
+    <Instruction>
+      There are two different types of oil filter mountings, de- pending on model. On 525i models with the M20 en- gine, the filter is the spin-on type. On all other models, a cartridge type filter is used. The procedure below cov- ers both types of filters.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      1. Run engine for a few minutes to warm engine and then turn engine off.
+      <Tools/>
+      <STE-issue word="run" POS="v">
+        <Suggestion>operate (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      2. With car on level ground, place a drain pan under oil drain plug. See Fig. 3.
+      <Tools>
+        <Tool>drain pan</Tool>
+      </Tools>
+      <STE-issue word="place" POS="v">
+        <Suggestion>put (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="under" POS="prep">
+        <Suggestion>below (prep)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      0011911
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Fig. 3. Engine oil drain plug (arrow) in oil sump. NOTE � The car will not need to be raised if a shallow drain pan is used.
+      <Tools>
+        <Tool>drain pan</Tool>
+      </Tools>
+    </Instruction>
+    <Instruction>
+      3. Using a socket or box wrench, loosen drain plug from bottom of oil sump. By hand, remove plug and let oil drain into pan.
+      <Tools>
+        <Tool>box wrench</Tool>
+        <Tool>socket</Tool>
+      </Tools>
+      <STE-issue word="using" POS="v">
+        <Suggestion> use (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="CAUTION �">
+    <Warning>
+      + Pull the loose plug away from the hole quickly to avoid being burned by the hot oil. It will run out quickly when the plug is removed.
+      <Tools/>
+      <STE-issue word="avoid" POS="v">
+        <Suggestion>prevent (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="run" POS="v">
+        <Suggestion>operate (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      + Use gloves to protect your hands.
+      <Tools/>
+      <STE-issue word="use" POS="n">
+        <Suggestion>operation (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="protect" POS="v">
+        <Suggestion>prevent (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      4. When oil flow has diminished to an occasional drip, re- install drain plug with a new metal sealing washer and tighten plug.
+      <Tools/>
+    </Warning>
+    <Warning>
+      Tightening Torques
+      <Tools/>
+    </Warning>
+    <Warning>
+      * Engine oil drain plug to oil sump MTA DOI ricinus tate Soci eaialent 25 Nm (18 ft-lb) M22 OOM araris avieeee ses Ta ak 60 Nm (44 ft-lb)
+      <Tools/>
+    </Warning>
+    <Warning>
+      5. Remove oil filter:
+      <Tools/>
+    </Warning>
+    <Warning>
+      * On M20 engines, position drain pan directly under the oil filter and loosen spin-on filter by turning clockwise. + On all engines except M20 engine, loosen oil filter cov- er or oil filter cover mounting bolt.Install new oil filter:
+      <Tools>
+        <Tool>drain pan</Tool>
+      </Tools>
+      <STE-issue word="under" POS="prep">
+        <Suggestion>below (prep)</Suggestion>
+      </STE-issue>
+      <STE-issue word="cover" POS="v">
+        <Suggestion>include (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      * On M20 engines, wipe oil filter mounting flange clean. Lubricate rubber gasket of new oil filter with light coat- ing of clean engine oil. Install filter by hand until gas- ket contacts mounting flange, then turn filter another &quot;fp turn.
+      <Tools/>
+      <STE-issue word="wipe" POS="v">
+        <Suggestion>clean (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      * On all engines except M20 engine, remove old O- ring(s) from cover and from end of bolt, as applicable. Lubricate and install new O-rings in filter cover and on filter bolt (M50,M30 engines only). Install new filter cartridge and cover. See Fig. 4.
+      <Tools/>
+      <STE-issue word="old" POS="adj">
+        <Suggestion>remaining (adj)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      0011912
+      <Tools/>
+    </Warning>
+    <Warning>
+      Fig. 4. BMW oil cartridge filter for M50 engine. When purchasing orig-
+      <Tools/>
+    </Warning>
+    <Warning>
+      inal equipment filter, sealing rings and O-rings are normally in- cluded.
+      <Tools/>
+      <STE-issue word="normally" POS="adv">
+        <Suggestion>usually (adv)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      Tightening Torque
+      <Tools/>
+    </Warning>
+    <Warning>
+      * Oil filter cover to oil filter housing M10:0F: M12 DOlt sii. 6 5 c.6e se coe ae 33 Nm (24 ft-lb) screw-on cover ...........--.4-- 25 Nm (18 ft-lb)
+      <Tools/>
+      <STE-issue word="cover" POS="v">
+        <Suggestion>include (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="cover" POS="v">
+        <Suggestion>include (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+  </Paragraph>
+  <Paragraph topic="CAUTION �">
+    <Warning>
+      Overtightening the oil filter will make the next change much more difficult, and may deform the gasket, causing leaks.
+      <Tools/>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      6. Refill crankcase with oil. Check oil level when finished adding oil. Oil specifications are found under Fluid and Lubricant Specifications.
+      <Tools/>
+      <STE-issue word="under" POS="prep">
+        <Suggestion>below (prep)</Suggestion>
+      </STE-issue>
+    </Warning>
+  </Paragraph>
+  <Paragraph topic="ENGINE OIL SERVICE"/>
+  <Paragraph topic="020-10 MAINTENANCE PROGRAM">
+    <Warning>
+      7. Start engine and check that oil pressure warning light immediately goes out. Allow engine to run for a few minutes to circulate new oil. Check for leaks at drain plug and oil filter. Stop engine and recheck oil level.
+      <Tools/>
+      <STE-issue word="allow" POS="v">
+        <Suggestion>let (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="run" POS="v">
+        <Suggestion>operate (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="circulate" POS="v">
+        <Suggestion>supply (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="recheck" POS="v">
+        <Suggestion>measure (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+  </Paragraph>
+  <Paragraph topic="CAUTION �">
+    <Warning>
+      � Dispose of used oil properly. Use tight-sealing containers and mark them clearly. Check with the place of purchase about disposal.
+      <Tools/>
+      <STE-issue word="properly" POS="adv">
+        <Suggestion>correctly (adv)</Suggestion>
+      </STE-issue>
+      <STE-issue word="mark" POS="v">
+        <Suggestion>identify (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      + If the oil pressure warning light does not immedi- ately go out after the engine is started, quickly turn the engine off. Loosen the oil filter or filter cover slightly. Restart the engine. As soon as oil begins to run out of the filter or filter cover, turn the engine off and tighten the filter or cover. This will release any trapped air that is blocking oil flow.
+      <Tools/>
+      <STE-issue word="cover" POS="v">
+        <Suggestion>include (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="cover" POS="v">
+        <Suggestion>include (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="restart" POS="v">
+        <Suggestion>start (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="as" POS="conj">
+        <Suggestion>because (conj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="as" POS="conj">
+        <Suggestion>because (conj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="run" POS="v">
+        <Suggestion>operate (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="cover" POS="v">
+        <Suggestion>include (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="cover" POS="v">
+        <Suggestion>include (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="cover" POS="v">
+        <Suggestion>include (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="cover" POS="v">
+        <Suggestion>include (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+  </Paragraph>
+  <Paragraph topic="ENGINE COMPARTMENT MAINTENANCE">
+    <Instruction>
+      Air filter element, replacing
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      The specified maintenance intervals for replacing the air fil- ter element are based on normal use. If the car is operated pri- marily in dusty conditions, the air filter should be serviced more frequently. A dirty air filter starves the engine for air, re- ducing power output and increasing fuel consumption.
+      <Tools/>
+      <STE-issue word="normal" POS="adj">
+        <Suggestion>usual (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="use" POS="n">
+        <Suggestion>operation (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="NOTE �">
+    <Instruction>
+      On M20 and M50 engines, the air filter housing is in the left front corner of the engine compartment. On M30 and M60 engines, the air filter housing is in the front right corner of the engine compartment.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      The upper and lower parts of the air filter housing are fas- tened together with spring clips around the outside edge. To replace the air filter element and unfasten the clips as neces- sary. Separate the upper air filter housing from the lower part just enough to remove the filter element. See Fig. 5.
+      <Tools/>
+      <STE-issue word="upper" POS="adj">
+        <Suggestion>maximum (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="upper" POS="adj">
+        <Suggestion>maximum (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="separate" POS="v">
+        <Suggestion>disconnect (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="upper" POS="adj">
+        <Suggestion>maximum (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="upper" POS="adj">
+        <Suggestion>maximum (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="just" POS="adv">
+        <Suggestion>immediately (adv)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Fig. 5. Air filter housing in front left (driver's) side of MSO engine com- partment. Unclip spring clips (arrows) to remove air filter.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="ENGINE COMPARTMENT MAINTENANCE">
+    <Instruction>
+      Take note of the installed position of the filter. Wipe clean the inside of the air filter housing using a lint-free cloth and in- stall the new filter. Reinstall the upper air filter housing, mak- ing sure that the two halves are mated correctly. Refasten the spring-clips and tighten the mounting nuts. See Fig. 6.
+      <Tools>
+        <Tool>lint-free cloth</Tool>
+      </Tools>
+      <STE-issue word="take" POS="v">
+        <Suggestion>remove (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="wipe" POS="v">
+        <Suggestion>clean (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="using" POS="v">
+        <Suggestion> use (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="reinstall" POS="v">
+        <Suggestion>install (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="upper" POS="adj">
+        <Suggestion>maximum (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      0011919
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Fig. 6. Air filter being removed from air filter housing. Air filter housing will vary slightly between models.
+      <Tools/>
+      <STE-issue word="vary" POS="v">
+        <Suggestion>change (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="WARNING �">
+    <Warning>
+      When reinstalling a used air filter element, reinstall the filter in the same position that it was in before re- moval. Reversed installation will allow accumulated dirt to be drawn into the engine.
+      <Tools/>
+      <STE-issue word="reinstall" POS="v">
+        <Suggestion>install (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="allow" POS="v">
+        <Suggestion>let (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      Spark plugs, replacing
+      <Tools/>
+    </Warning>
+    <Warning>
+      High temperature and high-voltage sparks eventually wear out the spark plug electrodes, and the spark plugs must be re- placed.
+      <Tools/>
+    </Warning>
+    <Warning>
+      On M20 and M30 engines, gently remove the spark plug wire by pulling on the protective boot. Blow or brush away any dirt from around the base of the plug to prevent it from entering the engine when the plug is removed.
+      <Tools/>
+      <STE-issue word="gently" POS="adv">
+        <Suggestion>carefully (adv)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      On M50 and M60 engines, individual ignition coils are mounted above each spark plug. To access the plugs, the ig- nition coils must first be removed as described in 120 Ignition System�DME.
+      <Tools/>
+      <STE-issue word="as" POS="conj">
+        <Suggestion>because (conj)</Suggestion>
+      </STE-issue>
+    </Warning>
+  </Paragraph>
+  <Paragraph topic="CAUTION �">
+    <Warning>
+      Spark plugs should be replaced one at a time so
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      that the spark plug wires do not get mixed up. If all
+      <Tools/>
+      <STE-issue word="get" POS="v">
+        <Suggestion>become (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      of the wires need to be removed together, label
+      <Tools/>
+    </Warning>
+    <Warning>
+      each wire so that they can be reinstalled on the | correct spark plug.
+      <Tools/>
+    </Warning>
+    <Warning>
+      Use a 13/16 in. or 5/8 in. spark plug socket to remove spark plugs. The correct spark plugs for the different engines cov- ered by this manual are listed in Table i. Use a spark plug gap gauge to check the gap, if applicable. If necessary, bend the outer electrode slightly to adjust the gap to meet the specifica- tion. Do not bend or file the center electrode.
+      <Tools>
+        <Tool>socket</Tool>
+        <Tool>gauge</Tool>
+      </Tools>
+      <STE-issue word="gap" POS="n">
+        <Suggestion>clearance (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="gap" POS="n">
+        <Suggestion>clearance (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="gap" POS="n">
+        <Suggestion>clearance (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="gap" POS="n">
+        <Suggestion>clearance (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="gap" POS="n">
+        <Suggestion>clearance (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="gap" POS="n">
+        <Suggestion>clearance (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="gap" POS="n">
+        <Suggestion>clearance (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="gap" POS="n">
+        <Suggestion>clearance (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="gap" POS="n">
+        <Suggestion>clearance (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="meet" POS="v">
+        <Suggestion>engage (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="file" POS="v">
+        <Suggestion>remove (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+  </Paragraph>
+  <Paragraph topic="MAINTENANCE PROGRAM 020-11">
+    <Instruction>
+      Table f. Spark Plug Applications
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Model/ Spark plug Electrode gap Engine Bosch 525i/M20 | W8LCRWSLPR* | 0.7-0.8mm | (.028-.032 in.) 525i/M50 | F7LDCR ~ | Non-adjustable 535i/M30 | W8LCR/W8 LPR� | 0.7-0.8mm (.028-,032 in.) 530i/M60 ' F7LDCR | Non-adjustable 540i/M60 | F7LDCR ~ _ Non-adjustable
+      <Tools/>
+      <STE-issue word="plug" POS="v">
+        <Suggestion>connect (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="gap" POS="n">
+        <Suggestion>clearance (n)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Lightly lubricate the new spark plug threads with a little oil. Thread the plugs into the cylinder head by hand to prevent cross-threading. Torque the spark plugs.
+      <Tools/>
+      <STE-issue word="thread" POS="v">
+        <Suggestion>put (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Tightening Torque * Spark plug to cylinder head........ 30 Nm (22 ft-lb)
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="NOTE �">
+    <Instruction>
+      Abnormal spark plug condition could also result from spark plugs of the wrong specification. Check replace- ment plugs carefully and follow the spark plug manu- facturer's recommendations.
+      <Tools/>
+      <STE-issue word="abnormal" POS="adj">
+        <Suggestion>unusual (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="result" POS="v">
+        <Suggestion>cause (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="wrong" POS="adj">
+        <Suggestion>incorrect (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Distributor cap/rotor/spark plug wires, replacing
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      The distributor cap, rotor, and spark plug wires deliver high- voltage spark to the spark plugs. They are subject to insula- tion breakdown, corrosion fouling, and electrode wear and damage. The components should be inspected and replaced as necessary at the intervals listed under Maintenance Ta- bles to ensure maximum engine efficiency. Guidelines for vi- sual inspection and testing, and instructions for replacement are found in 120 Ignition System�DME.
+      <Tools/>
+      <STE-issue word="deliver" POS="v">
+        <Suggestion>supply (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="under" POS="prep">
+        <Suggestion>below (prep)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Fuel filter, replacing
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      The filter should be replaced at the specified interval. The fuel filter is located beneath the right rear of the car, just in front of the gas tank. See Fig. 7.
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="beneath" POS="prep">
+        <Suggestion>below (prep)</Suggestion>
+      </STE-issue>
+      <STE-issue word="just" POS="adv">
+        <Suggestion>immediately (adv)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="NOTE �">
+    <Instruction>
+      Some eight cylinder models (cars built from March 1993) are equipped with two fuel filters.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      When replacing the fuel filter, disconnect the battery nega- tive (-) cable and clamp the filter inlet and outlet hoses to less- en fuel spillage. Loosen the clamping bracket and the two hose clamps on either end of the filter. Note the arrow or mark- ings indicating direction of flow on the new filter. Install the fil- ter and use new hose clamps.
+      <Tools>
+        <Tool>hose clamps</Tool>
+      </Tools>
+      <STE-issue word="clamp" POS="v">
+        <Suggestion>attach (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="spillage" POS="n">
+        <Suggestion>contamination (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="note" POS="v">
+        <Suggestion>record (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      0011915
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Fig. 7. Fuel filter beneath car near right rear wheel. Direction of flow is indicated on filter housing. Loosen clamping bracket at filter center (A) and hose clamps (arrows). Replace hose clamps.
+      <Tools>
+        <Tool>hose clamps</Tool>
+      </Tools>
+      <STE-issue word="beneath" POS="prep">
+        <Suggestion>below (prep)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="WARNING �">
+    <Warning>
+      Fuel will be spilled when the filter is removed. Do not smoke or work near heaters or other fire haz- ards. Keep a tire extinguisher handy.
+      <Tools/>
+    </Warning>
+  </Paragraph>
+  <Paragraph topic="CAUTION �">
+    <Warning>
+      Clean thoroughly around the filter connections be- fore removing. Make sure no dirt gets into the fuel lines.
+      <Tools/>
+      <STE-issue word="thoroughly" POS="adv">
+        <Suggestion>fully (adv)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      Valve clearance, adjusting (M20/M30 engines)
+      <Tools/>
+    </Warning>
+    <Warning>
+      1989-1990 525i models and all 535i models require period- ic valve clearance checking and adjusting. The complete valve adjustment procedure is covered in 116 Cylinder Head and Valvetrain.
+      <Tools/>
+      <STE-issue word="complete" POS="adj">
+        <Suggestion>full (adj)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      Camshaft drive belt, replacing (M20 engine)
+      <Tools/>
+      <STE-issue word="drive" POS="v">
+        <Suggestion>move (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      1989 and 1990 525i models use an overhead camshaft that is actuated by a toothed rubber drive belt. See Fig. 8. Due to belt composition and high under-hood temperatures, the belt is subject to wear. BMW recommends that the belt be re- placed at least every 50,000 miles, every four years, or any- time belt tension is relieved. See 118 Camshaft Timing Belt for belt replacement procedures.
+      <Tools/>
+      <STE-issue word="under" POS="prep">
+        <Suggestion>below (prep)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      CAUTION � If the camshaft drive belt fails with the engine run- ning, the pistons will contact and bend the valves.
+      <Tools/>
+      <STE-issue word="contact" POS="v">
+        <Suggestion>touch (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+  </Paragraph>
+  <Paragraph topic="ENGINE COMPARTMENT MAINTENANCE"/>
+  <Paragraph topic="020-12 MAINTENANCE PROGRAM">
+    <Instruction>
+      Camshaft sprocket
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Drive belt
+      <Tools/>
+      <STE-issue word="drive" POS="v">
+        <Suggestion>move (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Drive belt Intermediate tensioner shaft sprocket Crankshaft sprocket 8932. ENG.B
+      <Tools/>
+      <STE-issue word="drive" POS="v">
+        <Suggestion>move (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="intermediate" POS="adj">
+        <Suggestion>middle (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Fig. 8. Camshaft drive belt configuration on M20 engine.
+      <Tools/>
+      <STE-issue word="drive" POS="v">
+        <Suggestion>move (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Battery maintenance
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Simple maintenance of the battery and its terminal connec- tions will ensure maximum starting performance, especially in colder temperatures. For a more detailed discussion of the battery and charging system, see 121 Battery, Starter, Alter- nator.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="NOTE �">
+    <Instruction>
+      The battery is mounted in one of two places, depending on models and mode! year. On most early cars, the bat- tery is in the front right corner of the engine compart- ment. On later cars, the battery is mounted beneath the rear seat. A secure battery hold-down is important in order to prevent vibrations and road shock from dam- aging the plates.
+      <Tools/>
+      <STE-issue word="early" POS="adj">
+        <Suggestion>short (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="beneath" POS="prep">
+        <Suggestion>below (prep)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Battery cable clamps should be tight. The terminals, the ca- ble clamps, and the battery case should be clean and free of white deposits. Even a thin layer of dust containing conductive acid salts can cause battery discharge.
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      To remove battery corrosion, begin by disconnecting the cables. Disconnect the negative (-) cable first. Clean the ter- minal posts and the cable clamps with a wire brush. Clean the main chassis ground terminal next to the battery.
+      <Tools>
+        <Tool>wire brush</Tool>
+      </Tools>
+      <STE-issue word="begin" POS="v">
+        <Suggestion>start (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="main" POS="adj">
+        <Suggestion>primary (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="next" POS="adv">
+        <Suggestion>then (adv)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Corrosion can be washed away with a baking soda and wa- ter solution that will neutralize the acid. Apply the solution carefully, though, since it will also neutralize the acid inside the battery. Reconnect the cable clamps, positive (+) cable first. Lightly coat the outside of the terminals, hold down screw, and clamps with petroleum jelly, grease, or a commer- cial battery terminal corrosion inhibitor.
+      <Tools>
+        <Tool>screw</Tool>
+      </Tools>
+      <STE-issue word="inside" POS="prep">
+        <Suggestion>in (prep)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="ENGINE COMPARTMENT MAINTENANCE"/>
+  <Paragraph topic="WARNING �">
+    <Warning>
+      - Battery acid is caustic and dangerous. Take care to keep it from contacting eyes, skin, or clothing. Wear eye protection. Extinguish all smoking ma- terials and do not work near any open flames.
+      <Tools/>
+      <STE-issue word="take" POS="v">
+        <Suggestion>remove (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      + Disconnecting the battery cables with the engine running, or reconnecting the cables to the incor- rect posts will damage the electrical system.
+      <Tools/>
+    </Warning>
+    <Warning>
+      � Be sure to have the radio code on hand before disconnecting battery.
+      <Tools/>
+    </Warning>
+    <Warning>
+      Battery electrolyte should be maintained at the correct level just above the battery plates and their separators. The correct level is approximately 5 mm (1/4 in.) above the top of battery plates or to the top of the indicator marks (if applicable). The battery plates and the indicator marks can be seen once the filler caps are removed. If the electrolyte level is low, replenish it by adding distilled water only.
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="just" POS="adv">
+        <Suggestion>immediately (adv)</Suggestion>
+      </STE-issue>
+      <STE-issue word="replenish" POS="v">
+        <Suggestion>fill (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+  </Paragraph>
+  <Paragraph topic="NOTE �">
+    <Instruction>
+      Always disconnect the negative (�) cable first, and con- nect it last.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Throttle housing and linkage, lubricating
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      The linkage at the throttle housing should be lubricated at the intervals described under Maintenance Tables. Use a general purpose oil on the joints and bearings of the linkage. Use a multipurpose grease on the bearing points of the throt- tle plate.
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="under" POS="prep">
+        <Suggestion>below (prep)</Suggestion>
+      </STE-issue>
+      <STE-issue word="purpose" POS="n">
+        <Suggestion>function (n)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      V-belts, checking and replacing (M20, M30 engines)
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      V-belts should be inspected during regular maintenance in- tervals. Incorrect tension can decrease the life of the belt and the component it drives. Inspect belts with the engine off. Twist the belt to inspect its sidewalls and bottom. Belt structur- al damage, glazed or shiny sidewalls caused by a loose belt, or separation caused by oil contamination are all reasons to replace a belt. V-belt faults are illustrated in Fig. 9.
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Belt squealing is normally caused by loose belt tension. Loud squealing may only be corrected by belt replacement. Belt dressings should not be used to correct the problem.
+      <Tools/>
+      <STE-issue word="normally" POS="adv">
+        <Suggestion>usually (adv)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      The V-belt tension is adjusted through a toothed-rack mechanism. Adjust V-belts by first loosening all of the mount- ing nuts/bolts until the unit pivots freely. Use a torque wrench and a crowfoot wrench to turn the tensioning gear bolt. Hold the wrench steady and tighten the locknut on the rear of the tensioning gear bolt. Tighten all other mounting nuts.
+      <Tools>
+        <Tool>torque wrench</Tool>
+      </Tools>
+      <STE-issue word="steady" POS="adj">
+        <Suggestion>stable (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="NOTE �">
+    <Instruction>
+      For the most accurate check, V-belt tension should be checked using a V-belt tension gauge.
+      <Tools>
+        <Tool>gauge</Tool>
+      </Tools>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="using" POS="v">
+        <Suggestion> use (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="MAINTENANCE PROGRAM 020-1 3">
+    <Instruction>
+      Tensile break
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Cracking
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Separation
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      0011921
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Fig. 9. Examples of V-belt failure. Courtesy of Gates Rubber Inc.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Tightening Torques * Tensioning gear (alternator
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      BGI CENSIONING) cc si5:5 aereoe maarmerre 7 Nm (62 in-lb) * Tensioning gear (power steering
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      belt tensioning)......... 8 to 8.5 Nm (71 to 75 in-lb) * Tensioning gear locking nut........ 24 Nm (18 ft-lb)
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Replacement of the V-belts every four years is recommend- ed. Loosen the mounting bolts and adjust until the belt tension is as loose as possible. Remove the belt by slipping it over the pulleys. In some cases it may be necessary to remove one V- belt to get to another. Cross section and length determine belt size. Use the old belt for comparison, or make sure that the new belt fits into the pulley groove. See Fig. 10.
+      <Tools/>
+      <STE-issue word="over" POS="prep">
+        <Suggestion>above (prep)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="get" POS="v">
+        <Suggestion>become (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="determine" POS="v">
+        <Suggestion>find (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="size" POS="n">
+        <Suggestion>dimension (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="old" POS="adj">
+        <Suggestion>remaining (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="NOTE �">
+    <Instruction>
+      When belts are replaced with new ones, store the old set in the luggage compartment for emergency use.
+      <Tools/>
+      <STE-issue word="store" POS="v">
+        <Suggestion>keep (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="old" POS="adj">
+        <Suggestion>remaining (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="use" POS="n">
+        <Suggestion>operation (n)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      When installing a new belt, gently pry it over the pulleys. Too much force may damage the belt or the accessory. Ten- sion the belt(s), run the engine for a few minutes (at least 1500 rpm), then recheck the belt tension.
+      <Tools/>
+      <STE-issue word="gently" POS="adv">
+        <Suggestion>carefully (adv)</Suggestion>
+      </STE-issue>
+      <STE-issue word="over" POS="prep">
+        <Suggestion>above (prep)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="run" POS="v">
+        <Suggestion>operate (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="recheck" POS="v">
+        <Suggestion>measure (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      am) (| |
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Correct Too low Too high
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Fig. 10. Cross-section of correct V-belt position in pulley. Courtesy of Gates Rubber Inc
+      <Tools/>
+    </Instruction>
+    <Warning>
+      CAUTION � Do not over tighten the V-belts. Overtightening will cause shaft bearings to fail prematurely
+      <Tools/>
+    </Warning>
+    <Instruction>
+      Poly-ribbed belts, checking and replacing (M50 and M60 engines)
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      The automatic-tensioning poly-ribbed belt(s) should be in- spected during regular maintenance intervals. Inspect the belt with the engine off. Twist the belt to inspect its sidewalls and bottom. Belt structural damage, glazed or shiny contact sur- faces, cracking, or oil contamination are all reasons to replace a belt.
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      To replace the belt on M50 motors, first pry out the cover from the front of the belt tensioner. Then use an 8mm allen socket to relieve the tension on the belt. See Fig. 11. Install the new belt with the tensioner in the released position. Install the dust cap to the tensioner once the belt is installed.
+      <Tools>
+        <Tool>socket</Tool>
+      </Tools>
+      <STE-issue word="relieve" POS="v">
+        <Suggestion>release (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="once" POS="conj">
+        <Suggestion> when (conj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      80011027 Fig. 11. Poly-ribbed drive belt being removed on M50 engine. Turn &amp; mm hex wrench clockwise to relieve belt tension and then slip
+      <Tools>
+        <Tool>wrench</Tool>
+      </Tools>
+      <STE-issue word="relieve" POS="v">
+        <Suggestion>release (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="slip" POS="v">
+        <Suggestion>move (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      belt off pulleys.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="ENGINE COMPARTMENT MAINTENANCE"/>
+  <Paragraph topic="020-14 MAINTENANCE PROGRAM">
+    <Instruction>
+      To replace the poly-ribbed belts on M60 motors, loosen the mounting nuts on the belt tensioner. See Fig. 12.Then use an open end wrench to rotate the tensioner counterclockwise, re- leasing belt tension. Tighten the tensioner mounting nuts to hold the tensioner in position. Remove the belt. Install the new belt and then loosen the tensioner mounting nuts. Tighten the nuts once the belt is tensioned.
+      <Tools>
+        <Tool>wrench</Tool>
+      </Tools>
+      <STE-issue word="rotate" POS="v">
+        <Suggestion>turn (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="once" POS="conj">
+        <Suggestion> when (conj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      0011908 Fig. 12. Drive belt tensioner on M60 engine. To relieve belt tension,
+      <Tools/>
+      <STE-issue word="drive" POS="v">
+        <Suggestion>move (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="relieve" POS="v">
+        <Suggestion>release (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      loosen nuts (A) and turn hex (B) counterclockwise. Tighten nuts to hold tensioner in position.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Cooling system maintenance
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Cooling system maintenance consists of maintaining the coolant and inspecting coolant hoses. Because the coolant's anti-corrosion and anti-freeze additives gradually lose their ef- fectiveness, replacement of the coolant every 2-3 years is rec- ommended. As a preventive measure, replacement of the cooling system hoses every 4 years is also recommended.
+      <Tools/>
+      <STE-issue word="lose" POS="v">
+        <Suggestion>decrease (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="CAUTION �">
+    <Warning>
+      Use only BMW-approved long life anti-freeze when filling the cooling system. Use of anti-freeze containing phosphates or a high silicate content is considered to be harmful to the cooling system.
+      <Tools/>
+      <STE-issue word="use" POS="n">
+        <Suggestion>operation (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="use" POS="n">
+        <Suggestion>operation (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="harmful" POS="adj">
+        <Suggestion>dangerous (adj)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      A translucent expansion tank, either on the left side of the radiator or in the rear of the engine compartment, provides easy monitoring of coolant level. Because the expansion tank is translucent, the coolant level can be checked visually with- out opening the system.
+      <Tools/>
+    </Warning>
+    <Warning>
+      Always check the coolant level with the engine cold. The coolant level should be at the maximum mark on the expan- sion tank. See Fig. 13.
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      Coolant hose connections should be tight and dry. Coolant seepage indicates either that the hose clamp is loose, that the hose is damaged, or that the connection is dirty or corroded. Dried coolant has a chalky appearance. Hoses should be firm
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="seepage" POS="n">
+        <Suggestion>leakage (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+  </Paragraph>
+  <Paragraph topic="ENGINE COMPARTMENT MAINTENANCE">
+    <Instruction>
+      / / y ' H :
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      �_ ~~ � i alll � �_
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      � prey
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      0011917
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Fig. 13. Fill mark on coolant expansion tank on radiator. Coolant level should be at �cold� mark when engine is cold.
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      and springy. Replace any hose that is cracked, that has be- come soft and limp, or has been contaminated by oil. See Fig. 14.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Oil damage
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Heat damage
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="BS91.LUB.6"/>
+  <Paragraph topic="B9110">
+    <Instruction>
+      Fig. 14. Examples of damage to coolant hoses. Any of conditions shown is cause for replacement. Courtesy of Gates Rubber Inc.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="MAINTENANCE PROGRAM 020-15">
+    <Instruction>
+      Power steering fluid level, checking
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Check the power steering fluid level in the fluid reservoir, just behind the fuse/relay panel. Park the car on level ground with the engine off.
+      <Tools/>
+      <STE-issue word="just" POS="adv">
+        <Suggestion>immediately (adv)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="NOTE �">
+    <Instruction>
+      The power steering system is filled with either ATF or CHF 7.1 hydraulic oil. The reservoir is marked with the type of oil used.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      The fluid level is correct if it is between the MAX and MIN marks on the dipstick. See Fig. 15. If the level is below the MIN mark, start the engine and add fluid to the reservoir to bring the level up. Stop the engine and recheck the level. Hand- tighten the reservoir cap.
+      <Tools/>
+      <STE-issue word="bring" POS="v">
+        <Suggestion>move (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="recheck" POS="v">
+        <Suggestion>measure (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      . 0011914
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Fig. 15. Power steering fluid dipstick showing MIN and MAX marks.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Brake/clutch fluid level, checking
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      The level of the brake fluid will drop slightly as the brakes wear. Check the fluid level is between the MIN and MAX marks on the brake fluid reservoir. See Fig. 15. When filling the reser- voir, use only new brake fluid from previously unopened con- tainers. See Fluid and Lubricant Specifications.
+      <Tools/>
+      <STE-issue word="drop" POS="v">
+        <Suggestion>fall (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="as" POS="conj">
+        <Suggestion>because (conj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      NOTE � * The brake fluid also serves as the hydraulic fluid for the clutch on cars with manual transmission.
+      <Tools/>
+      <STE-issue word="note" POS="v">
+        <Suggestion>record (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      + Low fluid level in the brake fluid reservoir may be due to leaks in the brake system or in the hydraulic clutch.
+      <Tools/>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      0011918
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Fig. 16. Level indicators on brake fluid reservoir (arrows). Correct lev el is between MIN and MAX marks
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Oxygen sensor, replacing
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      The oxygen sensor monitors engine combustion efficiency by measuring the oxygen content of the exhaust gasses. The output signal from the sensor is used to precisely control fuel delivery. Any problems with the oxygen sensor will directly af- fect exhaust emissions and the way the engine runs.
+      <Tools/>
+      <STE-issue word="precisely" POS="adv">
+        <Suggestion>accurately (adv)</Suggestion>
+      </STE-issue>
+      <STE-issue word="way" POS="n">
+        <Suggestion>procedure (n)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      The sensor is mounted in the exhaust pipe near the catalyt- ic convertor. See Fig. 17. For more information on testing the oxygen sensor system, see 130 Fuel injection�DME.
+      <Tools/>
+    </Instruction>
+    <Warning>
+      WARNING � Allow exhaust system to cool thoroughly.
+      <Tools/>
+      <STE-issue word="allow" POS="v">
+        <Suggestion>let (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="cool" POS="v">
+        <Suggestion>decrease (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="thoroughly" POS="adv">
+        <Suggestion>fully (adv)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Instruction>
+      1. To replace oxygen sensor, detach electrical harness connector, then unscrew sensor from exhaust pipe
+      <Tools/>
+      <STE-issue word="detach" POS="v">
+        <Suggestion>disconnect (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      0011922
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Fig. 17. Oxygen sensor (arrow) is threaded into front exhaust pipe ahead of catalytic converter.
+      <Tools/>
+      <STE-issue word="ahead" POS="adv">
+        <Suggestion>forward (adv)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Tightening Torque * Oxygen sensor to exhaust system .......-.. 55 + 5 Nm (40 +4 ft-lb)
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="ENGINE COMPARTMENT MAINTENANCE"/>
+  <Paragraph topic="020-16 MAINTENANCE PROGRAM"/>
+  <Paragraph topic="NOTE �">
+    <Instruction>
+      Special sockets for replacing the oxygen sensor are available from most automotive parts stores. The sock- et has a groove cut down one side to allow the sensor to be installed without damaging the wire harness. See 010 Fundamentals for the Do-it-yourself Owner for information on sources.
+      <Tools/>
+      <STE-issue word="allow" POS="v">
+        <Suggestion>let (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="yourself" POS="pron">
+        <Suggestion>you (pron)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="UNDER-CAR MAINTENANCE">
+    <Instruction>
+      Tires, checking inflation pressure
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Correct tire inflation pressures are important to handling and stability, fuel economy, and tire wear. Tire pressures change with temperature. Pressures should be checked often during seasonal temperature changes. Correct inflation pres- sures can be found on the driver's door pillar and in the own- ers manual. Note that tire pressures should be higher when the car is more heavily loaded.
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="often" POS="adv">
+        <Suggestion>frequently (adv)</Suggestion>
+      </STE-issue>
+      <STE-issue word="note" POS="v">
+        <Suggestion>record (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="WARNING �">
+    <Warning>
+      Do not inflate any tire to a higher pressure than the tires maximum inflation pressure listed on the side- wall. Use care when adding air to warm tires. Warm tire pressures can increase as much as 4 psi (0.3 bar) over their cold pressures.
+      <Tools/>
+      <STE-issue word="over" POS="prep">
+        <Suggestion>above (prep)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      Tires, rotating
+      <Tools/>
+    </Warning>
+    <Warning>
+      BMW does not recommend tire rotation. Owing to the car's suspension design, the front tires begin to wear first at the out- er shoulder and the rear tires begin to wear first at the middle of the tread or inner shoulder. Rotating the tires may adverse- ly affect road handling and tire grip.
+      <Tools/>
+      <STE-issue word="begin" POS="v">
+        <Suggestion>start (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="begin" POS="v">
+        <Suggestion>start (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="begin" POS="v">
+        <Suggestion>start (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="begin" POS="v">
+        <Suggestion>start (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+  </Paragraph>
+  <Paragraph topic="NOTE �">
+    <Instruction>
+      The main purpose of tire rotation is to promote even wear and maximum tire life. Tire life may be decreased slightly if the tires are not rotated.
+      <Tools/>
+      <STE-issue word="main" POS="adj">
+        <Suggestion>primary (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="purpose" POS="n">
+        <Suggestion>function (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Wheels, aligning
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      BMW recommends checking the front and rear alignment once a year and whenever new tires are installed. See 320 Steering and wheel alignment for a more detailed discus- sion of alignment requirements and specifications.
+      <Tools/>
+      <STE-issue word="whenever" POS="conj">
+        <Suggestion>when (conj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Brake system, inspecting
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Routine maintenance of the brake system includes main- taining an adequate level of brake fluid in the reservoir, check- ing brake pads for wear, checking hand brake function, and inspecting the system for fluid leaks or other damage.
+      <Tools/>
+      <STE-issue word="routine" POS="adj">
+        <Suggestion>usual (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="adequate" POS="adj">
+        <Suggestion>sufficient (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="UNDER-CAR MAINTENANCE"/>
+  <Paragraph topic="WARNING �">
+    <Warning>
+      + Friction materials such as brake linings may con- tain asbestos fibers. Do not create dust by grind- ing, sanding, or cleaning the pads with compressed air. Avoid breathing asbestos fibers and asbestos dust, as it may result in serious dis- eases such as asbestosis and cancer, or in death.
+      <Tools/>
+      <STE-issue word="as" POS="conj">
+        <Suggestion>because (conj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="create" POS="v">
+        <Suggestion>make (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="avoid" POS="v">
+        <Suggestion>prevent (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="as" POS="conj">
+        <Suggestion>because (conj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="result" POS="v">
+        <Suggestion>cause (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="serious" POS="adj">
+        <Suggestion>important (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="as" POS="conj">
+        <Suggestion>because (conj)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      * Brake fluid is poisonous. Do not siphon brake flu- id by mouth. Wear gloves when working with brake fluid or brake pads to prevent contamina- tion of cuts.
+      <Tools/>
+    </Warning>
+    <Warning>
+      Brake hoses and lines, inspecting
+      <Tools/>
+    </Warning>
+    <Warning>
+      Check that all brake hoses are correctly routed to avoid chafing or kinking. Inspect unions and brake calipers for signs of fluid leaks. Inspect rigid lines for corrosion, dents, or other damage. Inspect flexible hoses for cracking. Replace faulty hoses or lines as described in 340 Brakes.
+      <Tools/>
+      <STE-issue word="avoid" POS="v">
+        <Suggestion>prevent (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="faulty" POS="adj">
+        <Suggestion>defective (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="as" POS="conj">
+        <Suggestion>because (conj)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      WARNING � Incorrect installation or overtightening hoses, lines,
+      <Tools/>
+    </Warning>
+    <Warning>
+      and unions may cause chafing or leakage. This can lead to partial or complete brake system failure.
+      <Tools/>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="lead" POS="v">
+        <Suggestion>put (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="complete" POS="adj">
+        <Suggestion>full (adj)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      Brake pad/rotor wear, checking
+      <Tools/>
+    </Warning>
+    <Warning>
+      Although the cars covered by this manual are equipped with a brake pad warning system, the system only monitors one wheel per axle. There can be slight variations in brake pad wear at each wheel, so brake pad thickness should be checked whenever the wheels are off or brake work is being done.
+      <Tools/>
+      <STE-issue word="slight" POS="adj">
+        <Suggestion>small (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="whenever" POS="conj">
+        <Suggestion>when (conj)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      The brake caliper should be removed to properly inspect the brake pads and the rotors. Brake caliper removal and in- Stallation procedures are given in 340 Brakes. See Fig. 18.
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="properly" POS="adv">
+        <Suggestion>correctly (adv)</Suggestion>
+      </STE-issue>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Warning>
+      Brake Pad Lining Minimum Thickness (Dimension A)
+      <Tools/>
+    </Warning>
+    <Warning>
+      * Front and rear disc brake pads. ..... 2.0 mm (0.08 in)
+      <Tools/>
+    </Warning>
+  </Paragraph>
+  <Paragraph topic="NOTE �">
+    <Instruction>
+      For parking brake lining wear, see Parking Brake, checking below.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="MAINTENANCE PROGRAM 020-17">
+    <Instruction>
+      0011920
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Fig. 18. Disc brake caliper removed to inspect brake pad thickness. Minimurn brake pad thickness shown by dimension A.
+      <Tools/>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Brake fluid, replacing
+      <Tools/>
+    </Instruction>
+    <Warning>
+      BMW strictly recommends replacing the brake fluid every year. This will help protect against corrosion and the effects of moisture in the fluid. See 340 Brakes for brake fluid flushing procedures.
+      <Tools/>
+      <STE-issue word="strictly" POS="adv">
+        <Suggestion>fully (adv)</Suggestion>
+      </STE-issue>
+      <STE-issue word="protect" POS="v">
+        <Suggestion>prevent (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Instruction>
+      Parking brake, checking
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      The parking brake system is independent of the main brak- ing system and may require periodic adjustment depending on use. Adjust the parking brake if the brake lever can be pulled up more than 8 clicks on the ratchet mechanism. Check that the cable moves freely. A complete description of the parking brake and parking brake adjustment can be found in 340 Brakes.
+      <Tools>
+        <Tool>ratchet</Tool>
+      </Tools>
+      <STE-issue word="main" POS="adj">
+        <Suggestion>primary (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="use" POS="n">
+        <Suggestion>operation (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="complete" POS="adj">
+        <Suggestion>full (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="NOTE �">
+    <Instruction>
+      The parking brake may lose some of its effectiveness over time if it is not used frequently. This is due to cor- rosion build-up on the parking brake drum. To remove corrosion, apply the parking brake just until it begins to grip, then pull the lever up one more stop (click), Drive the car approximately 400 meters (1,300 ft.) and re- lease the brake. To recheck the adjustment of the park- ing brake see 340 Brakes.
+      <Tools/>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="lose" POS="v">
+        <Suggestion>decrease (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="over" POS="prep">
+        <Suggestion>above (prep)</Suggestion>
+      </STE-issue>
+      <STE-issue word="just" POS="adv">
+        <Suggestion>immediately (adv)</Suggestion>
+      </STE-issue>
+      <STE-issue word="grip" POS="v">
+        <Suggestion>hold (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="drive" POS="v">
+        <Suggestion>move (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="recheck" POS="v">
+        <Suggestion>measure (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Exhaust system, inspecting
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Exhaust system life varies widely according to driving hab- its and environmental conditions. If short-distance driving pre- dominates, the moisture and condensation in the system will not fully dry out. This will lead to early corrosion damage and more frequent replacement.
+      <Tools/>
+      <STE-issue word="dry" POS="v">
+        <Suggestion>dry (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="lead" POS="v">
+        <Suggestion>put (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="early" POS="adj">
+        <Suggestion>short (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Scheduled maintenance of the exhaust system is limited to inspection. Check for restrictions due to dents or kinks. Check for weakness or perforation due to rust. Check to see that all the hangers are in place and properly supporting the system and that the system does not strike the body. Alignment of the system and the location of the hangers are described in 180 Exhaust System.
+      <Tools/>
+      <STE-issue word="properly" POS="adv">
+        <Suggestion>correctly (adv)</Suggestion>
+      </STE-issue>
+      <STE-issue word="strike" POS="v">
+        <Suggestion>hit (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Manual Transmission Service
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Manual transmission service consists of inspecting for leaks, checking and changing the gear oil, checking the clutch fluid level, and checking the clutch disc for wear.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Evidence of transmission leaks is most likely to be seen around the drive shaft mounting flange, and at the bottom of the bellhousing between the transmission and the engine. For more information on identifying oil leaks and their causes, see 230 Manual Transmission and 210 Clutch.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Manual transmission oil, checking and filling
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      BMW recommends checking the manual transmission oil level and changing the oil at specified intervals. Check and fill the transmission with the car on a level surface. Transmission oil level checking and oil replacement procedures are covered in 230 Manual Transmission.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Automatic transmission service
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Many different automatic transmissions are used in the cars covered by this manual, depending on engine and model year. Some early transmissions are equipped with a dipstick, while most later transmissions are not. On automatic trans- missions not equipped with a dipstick, checking the ATF level is an involved procedure that requires measuring and main- taining a specified ATF temperature during the checking pro- cedure.
+      <Tools/>
+      <STE-issue word="early" POS="adj">
+        <Suggestion>short (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="NOTE �">
+    <Instruction>
+      Some automatic transmissions use a special ATF oil that does not require changing for the life of the trans- mission.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      For complete ATF service, including checking ATF level
+      <Tools/>
+      <STE-issue word="complete" POS="adj">
+        <Suggestion>full (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      and ATF filter replacement procedures, see 240 Automatic Transmission.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="UNDER-CAR MAINTENANCE"/>
+  <Paragraph topic="020-18 MAINTENANCE PROGRAM">
+    <Instruction>
+      Front suspension and steering linkages, inspecting
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Inspection of the front suspension and steering includes a check of all moving parts for wear and excessive play. Also in- spect the rubber seals and boots for cracks or tears that could allow the entry of dirt, water, and other contaminants. See 310 Front Suspension.
+      <Tools/>
+      <STE-issue word="allow" POS="v">
+        <Suggestion>let (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Rear suspension, inspecting
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Final drive and rear drive axle service consists of checking and changing the gear oil, inspecting for leaks, and checking the rear drive axle rubber boots for damage.
+      <Tools/>
+      <STE-issue word="final" POS="adj">
+        <Suggestion>last (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      The areas where leaks are most likely to occur are around the drive shaft and drive axle mounting flanges. For more in- formation on identifying oil leaks and their causes, see 330 Rear Suspension and 331 Final Drive.
+      <Tools/>
+      <STE-issue word="drive" POS="v">
+        <Suggestion>move (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="drive" POS="v">
+        <Suggestion>move (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="drive" POS="v">
+        <Suggestion>move (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Final drive oil level, checking
+      <Tools/>
+      <STE-issue word="final" POS="adj">
+        <Suggestion>last (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Check the lubricant level with the car level. Remove the oil filler plug. The level is correct when the fluid just reaches the edge of the filler hole. See Fig. 19. Install and tighten the oil fill- er plug when the oil level is correct.
+      <Tools/>
+      <STE-issue word="plug" POS="v">
+        <Suggestion>connect (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="just" POS="adv">
+        <Suggestion>immediately (adv)</Suggestion>
+      </STE-issue>
+      <STE-issue word="plug" POS="v">
+        <Suggestion>connect (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Oil specifications vary depending on type of final drive unit installed. See 331 Final Drive for more information.
+      <Tools/>
+      <STE-issue word="vary" POS="v">
+        <Suggestion>change (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="final" POS="adj">
+        <Suggestion>last (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="final" POS="adj">
+        <Suggestion>last (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="final" POS="adj">
+        <Suggestion>last (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="final" POS="adj">
+        <Suggestion>last (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Tightening Torque
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      + Final drive filler plug to final GHVE HQUSIG oss aan conemaommmies we 70 Nm (52 ft-lb)
+      <Tools/>
+      <STE-issue word="final" POS="adj">
+        <Suggestion>last (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="final" POS="adj">
+        <Suggestion>last (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="final" POS="adj">
+        <Suggestion>last (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="final" POS="adj">
+        <Suggestion>last (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      0011744
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      0011744 Fig. 19. Final drive drain plug (A) and fill plug (B).
+      <Tools/>
+      <STE-issue word="final" POS="adj">
+        <Suggestion>last (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="BODY AND INTERIOR MAINTENANCE"/>
+  <Paragraph topic="NOTE �">
+    <Instruction>
+      * Use a 14 mm or 17 mm allen bit socket to remove the drain plug. Alternatively, cut approximately 30 mm (1.2 in.) from an allen key and use and open end wrench on the key stub.
+      <Tools>
+        <Tool>socket</Tool>
+        <Tool>wrench</Tool>
+      </Tools>
+      <STE-issue word="use" POS="n">
+        <Suggestion>operation (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="use" POS="n">
+        <Suggestion>operation (n)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      + If the car is raised in the air, it should be on a level plane.
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      * To identify the type of differential (limited slip vs. open), locate the sheet metal data tag on the left-hand rear side of the final drive unit. This tag identifies the type and final drive ratio. For example S 3,10 means that it is a limited slip differential (S) with a 3.10 final ratio.
+      <Tools/>
+      <STE-issue word="limited" POS="adj">
+        <Suggestion>small (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="limited" POS="adj">
+        <Suggestion>small (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="locate" POS="v">
+        <Suggestion>find (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="final" POS="adj">
+        <Suggestion>last (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="final" POS="adj">
+        <Suggestion>last (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="final" POS="adj">
+        <Suggestion>last (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="final" POS="adj">
+        <Suggestion>last (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="final" POS="adj">
+        <Suggestion>last (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="final" POS="adj">
+        <Suggestion>last (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="limited" POS="adj">
+        <Suggestion>small (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="limited" POS="adj">
+        <Suggestion>small (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="final" POS="adj">
+        <Suggestion>last (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="final" POS="adj">
+        <Suggestion>last (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="final" POS="adj">
+        <Suggestion>last (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Drive axle boots, inspecting
+      <Tools/>
+      <STE-issue word="drive" POS="v">
+        <Suggestion>move (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Warning>
+      The rear drive axle protective boots should be inspected for cracks and any other damage that will allow contaminants to get into the joint. If the rubber boots fail, the water and dirt that enters the joint will quickly damage it. Replacement of the drive axle joint boots and inspection of the joints are described in 330 Rear Suspension.
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="allow" POS="v">
+        <Suggestion>let (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="get" POS="v">
+        <Suggestion>become (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Instruction>
+      Fuel tank and fuel lines, inspecting
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Inspect the fuel tank, fuel lines, and fuel system for damage or leaks. Check for fuel leaks in the engine compartment or fuel odors in the passenger compartment. Check for faulty fuel lines by bending them. If any leaks are present, fuel should be expelled. Check for a damaged fuel tank. Incorrect- ly raising the car can damage the tank. Check for any evapo- rative emissions hoses that may have become disconnected, checking carefully at the charcoal canister and evaporative emissions purge valve (where applicable). See 130 Fuel In- jection�DME and 160 Fuel Tank and Fuel Pump for compo- nent locations and additional information.
+      <Tools/>
+      <STE-issue word="inspect" POS="v">
+        <Suggestion>examine (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="faulty" POS="adj">
+        <Suggestion>defective (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="additional" POS="adj">
+        <Suggestion>more (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="WARNING �">
+    <Warning>
+      When checking for fuel leaks, the engine must be cold. A hot exhaust manifold or exhaust system could cause the fuel to ignite or explode causing se- rious personal injury. Ventilate the work area and clean up spilled fuel immediately.
+      <Tools/>
+    </Warning>
+  </Paragraph>
+  <Paragraph topic="BODY AND INTERIOR MAINTENANCE">
+    <Instruction>
+      Windshield wiper blades, replacing
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      BMW recommends replacing the wipers blades at specified time intervals. Normally twice a year (before and after the cold season) works well. See 611 Wipers and Washers for more information wiper troubleshooting and wiper blade replace- ment.
+      <Tools/>
+      <STE-issue word="normally" POS="adv">
+        <Suggestion>usually (adv)</Suggestion>
+      </STE-issue>
+      <STE-issue word="well" POS="adv">
+        <Suggestion>correctly (adv)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="NOTE �">
+    <Instruction>
+      When replacing the wiper blades, check the tightness of the wipers arm nuts. Loose wiper arms can lead to dam- aged wiper linkages. If found to be loose, tighten the nuts to the torque listed in 611 Wipers and Washers.
+      <Tools/>
+      <STE-issue word="lead" POS="v">
+        <Suggestion>put (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      HVAC micro-filter, replacing (1991 and later cars)
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      The ventilation system intake air filters pollen and airborne particles from the air before it enters the passenger compart- ment. The paper-element should be replaced at every inspec- tion |, or every 15K miles. A dirty filter will restrict air flow into the passenger compartment and lead to poor performance of the HVAC system. HVAC microfilter replacement is covered in 640 Heating and Air Conditioning.
+      <Tools/>
+      <STE-issue word="ventilation" POS="n">
+        <Suggestion>airflow (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="restrict" POS="v">
+        <Suggestion>decrease (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="lead" POS="v">
+        <Suggestion>put (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Body Lubrication
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      The body and door hinges, the hood latch, and the door check rods can be lubricated with a medium weight engine oil. Lubricate the seat runners with multipurpose grease.
+      <Tools/>
+      <STE-issue word="medium" POS="adj">
+        <Suggestion>moderate (adj)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Warning>
+      Lubricate the sunroof guide rails with silicone spray. If door weatherstrips are sticking, lubricate them with silicone spray or talcum powder. Do not apply any oil to rubber parts.
+      <Tools/>
+      <STE-issue word="guide" POS="v">
+        <Suggestion>put (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Instruction>
+      The hood release cable should be lubricated as well. The radio antenna mast should be cleaned and lubricated with a product such as WD-40�,
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="well" POS="adv">
+        <Suggestion>correctly (adv)</Suggestion>
+      </STE-issue>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="product" POS="n">
+        <Suggestion>material (n)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      The door locks and lock cylinders can be lubricated with an oil that contains graphite. Such a lubricant is available from BMW, Part No. 81 22 9 407 421
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Seat Belts
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Dirt and other abrasive particles will damage seat belt web- bing. If it is necessary to clean seat belts, use a mild soap so- lution. Bleach and other strong cleaning agents may weaken the belt webbing.
+      <Tools/>
+      <STE-issue word="mild" POS="adj">
+        <Suggestion>weak (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Warning>
+      WARNING � Do not clean the seat belt webbing using dry clean- ing or other chemicals. Allow wet belts to dry before allowing them to retract.
+      <Tools/>
+      <STE-issue word="using" POS="v">
+        <Suggestion> use (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="dry" POS="v">
+        <Suggestion>dry (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="allow" POS="v">
+        <Suggestion>let (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="dry" POS="v">
+        <Suggestion>dry (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Instruction>
+      The condition of the belt webbing and the function of the re- tractor mechanisms should be inspected. See 720 Seat Belts for seat belt inspection information.
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="MAINTENANCE PROGRAM 020-19"/>
+  <Paragraph topic="CLEANING AND PRESERVING">
+    <Instruction>
+      Exterior finish care
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      The longer dirt is left on the paint, the greater the risk of damaging the glossy finish, either by scratching or by the chemical effect dirt particles may have on the painted surface.
+      <Tools/>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Washing
+      <Tools/>
+    </Instruction>
+    <Warning>
+      Do not wash the car in direct sunlight. If the engine hood is warm, allow it to cool. Beads of water not only leave spots when dried rapidly by the sun or heat from the engine, but also act as tiny magnifying glasses that can burn spots into the fin- ish. Wash the car with a mixture of lukewarm water and a mild soap made expressly for washing cars. Rinse using plenty of clear water under as little pressure as possible. Wipe the body dry with a soft terry-cloth towel or chamois to prevent water- spotting.
+      <Tools/>
+      <STE-issue word="wash" POS="v">
+        <Suggestion>clean (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="wash" POS="v">
+        <Suggestion>clean (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="allow" POS="v">
+        <Suggestion>let (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="cool" POS="v">
+        <Suggestion>decrease (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="leave" POS="v">
+        <Suggestion>keep (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="rapidly" POS="adv">
+        <Suggestion>quickly (adv)</Suggestion>
+      </STE-issue>
+      <STE-issue word="wash" POS="v">
+        <Suggestion>clean (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="wash" POS="v">
+        <Suggestion>clean (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="lukewarm" POS="adj">
+        <Suggestion>warm (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="mild" POS="adj">
+        <Suggestion>weak (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="using" POS="v">
+        <Suggestion> use (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="under" POS="prep">
+        <Suggestion>below (prep)</Suggestion>
+      </STE-issue>
+      <STE-issue word="wipe" POS="v">
+        <Suggestion>clean (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Instruction>
+      Waxing
+      <Tools/>
+    </Instruction>
+    <Warning>
+      For a long-lasting, protective, and glossy finish, apply a hard wax after the car has been washed and dried. Use car- nauba or synthetic based products. Waxing is not needed af- ter every washing. You can tell when waxing is required by looking at the finish when it is wet. If the water coats the paint in smooth sheets instead of forming beads that roll off, a new coat of wax is needed. Wax should not be applied to black trim pieces, rubber, or other plastic parts.
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Instruction>
+      Chassis washing
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Periodic washing of the underside of the car, especially in Winter, will help prevent accumulation of road salt and rust. The best time to wash the underside is just after the car has been driven in wet conditions. Spray the chassis with a powerful jet of water. Commercial or self-service car washes may not be best for this, as they may recycle the salt-contaminated water.
+      <Tools/>
+      <STE-issue word="underside" POS="n">
+        <Suggestion>bottom (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="underside" POS="n">
+        <Suggestion>bottom (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="accumulation" POS="n">
+        <Suggestion>quantity (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="wash" POS="v">
+        <Suggestion>clean (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="underside" POS="n">
+        <Suggestion>bottom (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="underside" POS="n">
+        <Suggestion>bottom (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="just" POS="adv">
+        <Suggestion>immediately (adv)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="as" POS="conj">
+        <Suggestion>because (conj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="may" POS="v">
+        <Suggestion>can (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Special cleaning
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Tar and insect spots can be removed with a bug and tar re- mover. Never use gasoline, kerosene, nail polish remover, or other unsuitable solvents. This method can also be used to re- move spotting from tree sap.
+      <Tools/>
+    </Instruction>
+  </Paragraph>
+  <Paragraph topic="CLEANING AND PRESERVING"/>
+  <Paragraph topic="020-20 MAINTENANCE PROGRAM">
+    <Instruction>
+      Interior care
+      <Tools/>
+    </Instruction>
+    <Warning>
+      Dirt spots can usually be removed with lukewarm soapy wa- ter. Use spot remover for grease and oil spots. Do not pour the liquid directly on the carpet, but dampen a clean cloth and rub carefully, starting at the edge of the spot and working inward. Do not use gasoline, naptha, or other flammable substances to clean the carpeting.
+      <Tools/>
+      <STE-issue word="lukewarm" POS="adj">
+        <Suggestion>warm (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="use" POS="n">
+        <Suggestion>operation (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="pour" POS="v">
+        <Suggestion>put (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="dampen" POS="v">
+        <Suggestion>decrease (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="inward" POS="adv">
+        <Suggestion>in (adv)</Suggestion>
+      </STE-issue>
+      <STE-issue word="use" POS="n">
+        <Suggestion>operation (n)</Suggestion>
+      </STE-issue>
+    </Warning>
+    <Instruction>
+      Vinyl and cloth upholstery and trim
+      <Tools/>
+      <STE-issue word="trim" POS="v">
+        <Suggestion>cut (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Use a dry foam cleaner. Grease or paint spots can be re- moved by wiping with a cloth soaked with this cleaner. Use the same cleaner, applied with a soft cloth or brush, on the head- liner and side trim panels. For cloth-covered seat areas, use the techniques described previously for cleaning the carpet- ing.
+      <Tools/>
+    </Instruction>
+    <Instruction>
+      Leather upholstery and trim
+      <Tools/>
+      <STE-issue word="trim" POS="v">
+        <Suggestion>cut (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+    <Instruction>
+      Leather upholstery and trim should be periodically cleaned using a slightly damp cotton or wool cloth. The idea is to get rid of the dirt in the creases and pores that can cause brittleness and premature aging. On heavily soiled areas, use a mild de- tergent (such as Woolite�). Use two tablespoons to one quart of cold water. Dry the trim and upholstery completely using a soft cloth. Regular use of a good quality leather conditioner will reduce drying and cracking of the leather.
+      <Tools/>
+      <STE-issue word="should" POS="v">
+        <Suggestion>must (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="using" POS="v">
+        <Suggestion> use (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="using" POS="v">
+        <Suggestion> use (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="damp" POS="adj">
+        <Suggestion>moist (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="get" POS="v">
+        <Suggestion>become (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="use" POS="n">
+        <Suggestion>operation (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="mild" POS="adj">
+        <Suggestion>weak (adj)</Suggestion>
+      </STE-issue>
+      <STE-issue word="use" POS="n">
+        <Suggestion>operation (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="dry" POS="v">
+        <Suggestion>dry (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="completely" POS="adv">
+        <Suggestion>fully (adv)</Suggestion>
+      </STE-issue>
+      <STE-issue word="using" POS="v">
+        <Suggestion> use (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="using" POS="v">
+        <Suggestion> use (v)</Suggestion>
+      </STE-issue>
+      <STE-issue word="use" POS="n">
+        <Suggestion>operation (n)</Suggestion>
+      </STE-issue>
+      <STE-issue word="reduce" POS="v">
+        <Suggestion>decrease (v)</Suggestion>
+      </STE-issue>
+    </Instruction>
+  </Paragraph>
+</Manual_maintenance>

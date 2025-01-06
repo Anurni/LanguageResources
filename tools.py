@@ -45,7 +45,7 @@ tools = {
     ],
     "miscellaneous_supplies": [
         "zip ties", "rubber O-rings", "gaskets", "sealant",
-        "lubricants", "replacement bulbs", "hose clamps", "container"
+        "lubricants", "replacement bulbs", "hose clamps"
     ]
 }
 
