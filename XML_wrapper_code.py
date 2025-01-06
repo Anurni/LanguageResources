@@ -17,7 +17,7 @@ for dicts in flagged_sentences:
 
 
 
-def wrap_sentences_in_xml(flagged_sentences):
+def wrap_sentences_in_xml(flagged_sentences, name_of_output_file):
     """
     Wraps sentences with and without identified issues into an XML structure grouped by headings and their content (body).
 
@@ -30,6 +30,7 @@ def wrap_sentences_in_xml(flagged_sentences):
                 - 'word': str, the problematic word.
                 - 'POS': str, the part of speech of the problematic word.
                 - 'Replacement suggestion': str, the suggestion for replacement and its POS-tag.
+        name_of_output_file: Name of the output file where the xml-structure will be written
         
     Returns:
         str: A formatted hierarchical XML string structure representing the sentences and issues.
@@ -41,12 +42,13 @@ def wrap_sentences_in_xml(flagged_sentences):
         
     # creating the XML structure
     for paragraph in flagged_sentences:
-        print(paragraph)
+        #print(paragraph)
         if paragraph['line'] != "MAINTENANCE" and len(paragraph['line'])>2:
             if paragraph['line'].isupper():
                 xmlparagraph = ET.SubElement(root, "Paragraph", {"topic": paragraph['line']}) # tag for headings
+                #content = False
             else:
-                if "Do not" in paragraph['line'] or "do not" in paragraph['line']: # tag for warnings
+                if any(warning in paragraph['line'].lower() for warning in ["WARNING", "caution", "Caution", "do not", "warning", "Do not", "Warning", "protect", "Beware", "Protect", "beware"]) or "WARNING" in xmlparagraph.get("topic") or "CAUTION" in xmlparagraph.get("topic"):  # tag for warnings
                     content = ET.SubElement(xmlparagraph, "Warning")
                     content.text = paragraph['line']
                     tools = ET.SubElement(content, "Tools")
@@ -74,10 +76,10 @@ def wrap_sentences_in_xml(flagged_sentences):
                     tool.text = unigramm
                     already_added_tools.add(unigramm)
 
-            print(already_added_tools)
             try:
-            # adding issues as child elements, need to use try-except since not all of the lines contain not-approved words
+            # adding issues as child elements, need to use error catching since not all of the lines contain not-approved words
                 for issue in paragraph['issues']:
+                    #if content:
                     issue_element = ET.SubElement(content, "STE-issue", {
                         "word": issue["word"],
                         "POS": issue["POS"]
@@ -91,7 +93,10 @@ def wrap_sentences_in_xml(flagged_sentences):
 
     # Format XML for pretty printing
     xml_string = ET.tostring(root, encoding='unicode')
-    return minidom.parseString(xml_string).toprettyxml(indent="  ")
+    pretty_xml_result = minidom.parseString(xml_string).toprettyxml(indent="  ")
+
+    with open(name_of_output_file, "w") as output_file:
+        output_file.write(pretty_xml_result)
 
 
-print(wrap_sentences_in_xml(flagged_sentences))
+wrap_sentences_in_xml(flagged_sentences, "honda_manual.xml")

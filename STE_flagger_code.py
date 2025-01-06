@@ -96,7 +96,7 @@ def check_for_not_approved(text_document):
         if line.strip():  # If line is not empty
             current_paragraph.append(line.strip())
             #print("this is current_paragraph: ", current_paragraph)
-        else:  # Blank line indicates end of paragraph
+        else:  # a blank line indicates end of paragraph
             if current_paragraph:
                 paragraphs.append(" ".join(current_paragraph))
             current_paragraph = []
@@ -109,7 +109,7 @@ def check_for_not_approved(text_document):
     problem_words = r'\b({})\b'.format('|'.join(map(re.escape, not_allowed_vocab.keys()))) # \b(not_approved_word_1|not_approved_word_2|not_aproved_word_3|not_approved_word_4)\b
     skippable_words = ['to']  # TO DO: ADNN MODE
     line_n = 0
-    #tokenizer = PunktTokenizer()
+    deviations_to_analyze = []
     # ***********
 
     for sentence in paragraphs:
@@ -135,6 +135,7 @@ def check_for_not_approved(text_document):
                        })
             # adding an 'entry' in the problematic lines - list, contains information about the issues in that sentence
             if issues:  
+                deviations_to_analyze.append((sentence.strip(),issues))
                 flagged_lines.append({
                     'line_number': line_n,
                     'line': sentence.strip(),
@@ -153,14 +154,10 @@ def check_for_not_approved(text_document):
 
             })
                 
-#for line in flagged_lines:
-#    print(line)
-    #print(flagged_lines[:10])
-    return flagged_lines[:20] # REMEMBER TO CHANGE BACK !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    #print(deviations_to_analyze[:50])
+    return flagged_lines
 
 flagged_sentences = check_for_not_approved("./honda_manual.txt")
-#for item in flagged_sentences:
-#    print(item)
 
 
 

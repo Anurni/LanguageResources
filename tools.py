@@ -5,7 +5,7 @@ tools = {
         "pliers", "pliers",
         "rubber mallet", "claw hammer", "hammer", "ratchet", "socket set",
         "torque wrench", "pry bar", "utility knife", "measuring tape", "Allen keys (hex keys)", "O-ring", 
-        "strainer", "cup", "wrench", "stopper", "screw", "screws"
+        "strainer", "cup", "wrench", "stopper", "screw", "screws", "gauge"
     ],
     "automotive_tools": [
         "drain pan", "spark plug wrench", "oil filter wrench", "brake bleeder kit", "tire pressure gauge",
